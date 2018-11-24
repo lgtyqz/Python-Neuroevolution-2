@@ -1,0 +1,2253 @@
+GENERATION 0
+SCORE FOR ORGANISM 0, Laura Clinton: 108
+SCORE FOR ORGANISM 1, Oprah Broadus: 18
+SCORE FOR ORGANISM 2, Steven Smith: 152
+SCORE FOR ORGANISM 3, Alex Brimley: 108
+SCORE FOR ORGANISM 4, Steven Winfrey: 108
+SCORE FOR ORGANISM 5, Morty Mathers: 108
+SCORE FOR ORGANISM 6, Michael Guevara: 120
+SCORE FOR ORGANISM 7, Justin Bush: 108
+SCORE FOR ORGANISM 8, Ron Broadus: 109
+SCORE FOR ORGANISM 9, Andre Carter: 108
+SCORE FOR ORGANISM 10, Charles Sanchez: 115
+SCORE FOR ORGANISM 11, Morty Presley: 113
+SCORE FOR ORGANISM 12, Morty Young: 18
+SCORE FOR ORGANISM 13, Bernard Nixon: 68
+SCORE FOR ORGANISM 14, Hillary Universe: 139
+SCORE FOR ORGANISM 15, Donald Karl: 113
+SCORE FOR ORGANISM 16, Harry Brown: 113
+SCORE FOR ORGANISM 17, Harry Seinfeld: 138
+SCORE FOR ORGANISM 18, Michael Jordan: 139
+SCORE FOR ORGANISM 19, Carrie Trebek: 108
+SCORE FOR ORGANISM 20, Andre Ross: 18
+SCORE FOR ORGANISM 21, Broderick Carter: 144
+SCORE FOR ORGANISM 22, Wilford Weasley: 139
+SCORE FOR ORGANISM 23, Stefan Universe: 109
+SCORE FOR ORGANISM 24, Andre Jordan: 113
+SCORE FOR ORGANISM 25, Rick Potter: 139
+SCORE FOR ORGANISM 26, Laura Eilander: 108
+SCORE FOR ORGANISM 27, Jerry Presley: 115
+SCORE FOR ORGANISM 28, Tony Presley: 115
+SCORE FOR ORGANISM 29, Stefan Jordan: 18
+GENERATION 0
+SCORE FOR ORGANISM 0, Jerry Presley: 113
+SCORE FOR ORGANISM 1, Tony Presley: 113
+SCORE FOR ORGANISM 2, Michael Guevara: 120
+SCORE FOR ORGANISM 3, Harry Seinfeld: 140
+SCORE FOR ORGANISM 4, Hillary Universe: 141
+SCORE FOR ORGANISM 5, Michael Jordan: 141
+SCORE FOR ORGANISM 6, Wilford Weasley: 141
+SCORE FOR ORGANISM 7, Rick Potter: 141
+SCORE FOR ORGANISM 8, Broderick Carter: 146
+SCORE FOR ORGANISM 9, Steven Smith: 152
+SCORE FOR ORGANISM 10, Laura Carter Carter: 108
+SCORE FOR ORGANISM 11, Michael Universe Weasley: 18
+SCORE FOR ORGANISM 12, Calvin Smith Smith: 114
+SCORE FOR ORGANISM 13, Karl Carter Weasley: 18
+SCORE FOR ORGANISM 14, Steven Potter Presley: 18
+SCORE FOR ORGANISM 15, Broderick Jordan Carter: 120
+SCORE FOR ORGANISM 16, Carrie Weasley Jordan: 141
+SCORE FOR ORGANISM 17, Tony Presley Guevara: 108
+SCORE FOR ORGANISM 18, Calvin Potter Presley: 141
+SCORE FOR ORGANISM 19, Cathy Smith Carter: 18
+SCORE FOR ORGANISM 20, Michael Presley Seinfeld: 108
+SCORE FOR ORGANISM 21, Jacob Potter Presley: 115
+SCORE FOR ORGANISM 22, Cathy Seinfeld Seinfeld: 108
+SCORE FOR ORGANISM 23, Jonathan Jordan Carter: 115
+SCORE FOR ORGANISM 24, Jimmy Presley Jordan: 109
+SCORE FOR ORGANISM 25, Jimmy Guevara Jordan: 18
+SCORE FOR ORGANISM 26, Marshall Potter Seinfeld: 18
+SCORE FOR ORGANISM 27, Benhardt Jordan Presley: 18
+SCORE FOR ORGANISM 28, Michel Guevara Jordan: 108
+SCORE FOR ORGANISM 29, Tony Smith Presley: 108
+
+Adult Score Mean: 107.6
+Child Score Mean: 82.5
+Mean Growth: -25.099999999999994
+
+
+Adult Score Median: 120.0
+Child Score Median: 108.0
+Median Growth: -12.0
+
+
+Adult Score Standard Deviation: 47.96314374490831
+Child Score Standard Deviation: 44.5926002830066
+Difference: -63.0073997169934
+
+GENERATION 1
+SCORE FOR ORGANISM 0, Broderick Jordan Carter: 120
+SCORE FOR ORGANISM 1, Harry Seinfeld: 138
+SCORE FOR ORGANISM 2, Hillary Universe: 139
+SCORE FOR ORGANISM 3, Michael Jordan: 139
+SCORE FOR ORGANISM 4, Wilford Weasley: 139
+SCORE FOR ORGANISM 5, Rick Potter: 139
+SCORE FOR ORGANISM 6, Carrie Weasley Jordan: 139
+SCORE FOR ORGANISM 7, Calvin Potter Presley: 133
+SCORE FOR ORGANISM 8, Broderick Carter: 144
+SCORE FOR ORGANISM 9, Steven Smith: 152
+SCORE FOR ORGANISM 10, Cathy Carter Seinfeld: 113
+SCORE FOR ORGANISM 11, Rick Presley Jordan: 18
+SCORE FOR ORGANISM 12, Jacob Carter Weasley: 139
+SCORE FOR ORGANISM 13, Carrie Universe Smith: 108
+SCORE FOR ORGANISM 14, Marshall Weasley Weasley: 120
+SCORE FOR ORGANISM 15, Donald Carter Seinfeld: 18
+SCORE FOR ORGANISM 16, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 17, Karl Weasley Smith: 139
+SCORE FOR ORGANISM 18, Greg Jordan Presley: 115
+SCORE FOR ORGANISM 19, Benhardt Carter Presley: 108
+SCORE FOR ORGANISM 20, Michel Weasley Jordan: 18
+SCORE FOR ORGANISM 21, Michel Potter Carter: 147
+SCORE FOR ORGANISM 22, Michael Universe Seinfeld: 113
+SCORE FOR ORGANISM 23, Barack Jordan Weasley: 18
+SCORE FOR ORGANISM 24, Laura Seinfeld Jordan: 108
+SCORE FOR ORGANISM 25, Albert Universe Jordan: 108
+SCORE FOR ORGANISM 26, Benhardt Potter Smith: 18
+SCORE FOR ORGANISM 27, Lyndon Weasley Carter: 68
+SCORE FOR ORGANISM 28, Harry Weasley Universe: 111
+SCORE FOR ORGANISM 29, Barack Jordan Potter: 120
+
+Adult Score Mean: 120.65
+Child Score Mean: 82.9
+Mean Growth: -37.75
+
+
+Adult Score Median: 138.5
+Child Score Median: 108.0
+Median Growth: -30.5
+
+
+Adult Score Standard Deviation: 37.60637543933489
+Child Score Standard Deviation: 48.647142202234704
+Difference: -72.0028577977653
+
+GENERATION 2
+SCORE FOR ORGANISM 0, Michael Jordan: 141
+SCORE FOR ORGANISM 1, Wilford Weasley: 141
+SCORE FOR ORGANISM 2, Rick Potter: 141
+SCORE FOR ORGANISM 3, Carrie Weasley Jordan: 141
+SCORE FOR ORGANISM 4, Jacob Carter Weasley: 141
+SCORE FOR ORGANISM 5, Karl Weasley Smith: 141
+SCORE FOR ORGANISM 6, Broderick Carter: 146
+SCORE FOR ORGANISM 7, Michel Potter Carter: 152
+SCORE FOR ORGANISM 8, Steven Smith: 152
+SCORE FOR ORGANISM 9, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 10, Lyndon Carter Jordan: 18
+SCORE FOR ORGANISM 11, Bernard Carter Carter: 108
+SCORE FOR ORGANISM 12, Marshall Potter Carter: 109
+SCORE FOR ORGANISM 13, Steven Weasley Potter: 18
+SCORE FOR ORGANISM 14, Steven Weasley Jordan: 109
+SCORE FOR ORGANISM 15, Calvin Carter Jordan: 108
+SCORE FOR ORGANISM 16, Bob Smith Jordan: 113
+SCORE FOR ORGANISM 17, Steven Carter Smith: 146
+SCORE FOR ORGANISM 18, Elvis Potter Smith: 63
+SCORE FOR ORGANISM 19, Stefan Carter Carter: 18
+SCORE FOR ORGANISM 20, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 21, Jonathan Potter Potter: 18
+SCORE FOR ORGANISM 22, Richard Weasley Carter: 108
+SCORE FOR ORGANISM 23, Carrie Smith Carter: 18
+SCORE FOR ORGANISM 24, Harry Jordan Potter: 108
+SCORE FOR ORGANISM 25, Bill Jordan Weasley: 108
+SCORE FOR ORGANISM 26, Carrie Jordan Jordan: 108
+SCORE FOR ORGANISM 27, Cathy Weasley Weasley: 113
+SCORE FOR ORGANISM 28, Hillary Jordan Weasley: 18
+SCORE FOR ORGANISM 29, Jerry Smith Carter: 63
+
+Adult Score Mean: 112.95
+Child Score Mean: 68.0
+Mean Growth: -44.95
+
+
+Adult Score Median: 141.0
+Child Score Median: 85.5
+Median Growth: -55.5
+
+
+Adult Score Standard Deviation: 46.555541249701214
+Child Score Standard Deviation: 45.27692569068709
+Difference: -67.67307430931291
+
+GENERATION 3
+SCORE FOR ORGANISM 0, Wilford Weasley: 139
+SCORE FOR ORGANISM 1, Rick Potter: 139
+SCORE FOR ORGANISM 2, Carrie Weasley Jordan: 139
+SCORE FOR ORGANISM 3, Jacob Carter Weasley: 139
+SCORE FOR ORGANISM 4, Karl Weasley Smith: 139
+SCORE FOR ORGANISM 5, Broderick Carter: 144
+SCORE FOR ORGANISM 6, Steven Carter Smith: 146
+SCORE FOR ORGANISM 7, Michel Potter Carter: 147
+SCORE FOR ORGANISM 8, Steven Smith: 152
+SCORE FOR ORGANISM 9, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 10, Charles Smith Weasley: 18
+SCORE FOR ORGANISM 11, Ron Carter Weasley: 108
+SCORE FOR ORGANISM 12, Bill Carter Jordan: 108
+SCORE FOR ORGANISM 13, Justin Carter Weasley: 18
+SCORE FOR ORGANISM 14, Alex Smith Smith: 108
+SCORE FOR ORGANISM 15, Jonathan Jordan Smith: 108
+SCORE FOR ORGANISM 16, Alex Smith Carter: 108
+SCORE FOR ORGANISM 17, Alex Potter Carter: 116
+SCORE FOR ORGANISM 18, Andre Carter Smith: 109
+SCORE FOR ORGANISM 19, George Jordan Carter: 18
+SCORE FOR ORGANISM 20, Michael Jordan Potter: 120
+SCORE FOR ORGANISM 21, Carrie Potter Weasley: 120
+SCORE FOR ORGANISM 22, Andre Carter Smith: 141
+SCORE FOR ORGANISM 23, Carrie Jordan Potter: 18
+SCORE FOR ORGANISM 24, Karl Smith Smith: 18
+SCORE FOR ORGANISM 25, Carrie Jordan Potter: 109
+SCORE FOR ORGANISM 26, Wilford Jordan Potter: 18
+SCORE FOR ORGANISM 27, George Carter Carter: 113
+SCORE FOR ORGANISM 28, Rick Smith Jordan: 108
+SCORE FOR ORGANISM 29, Albert Smith Smith: 115
+
+Adult Score Mean: 112.8
+Child Score Mean: 88.0
+Mean Growth: -24.799999999999997
+
+
+Adult Score Median: 127.5
+Child Score Median: 111.0
+Median Growth: -16.5
+
+
+Adult Score Standard Deviation: 44.08795037673052
+Child Score Standard Deviation: 49.161864172230985
+Difference: -63.63813582776901
+
+GENERATION 4
+SCORE FOR ORGANISM 0, Rick Potter: 141
+SCORE FOR ORGANISM 1, Carrie Weasley Jordan: 141
+SCORE FOR ORGANISM 2, Jacob Carter Weasley: 141
+SCORE FOR ORGANISM 3, Karl Weasley Smith: 141
+SCORE FOR ORGANISM 4, Andre Carter Smith: 139
+SCORE FOR ORGANISM 5, Broderick Carter: 146
+SCORE FOR ORGANISM 6, Steven Carter Smith: 146
+SCORE FOR ORGANISM 7, Michel Potter Carter: 152
+SCORE FOR ORGANISM 8, Steven Smith: 152
+SCORE FOR ORGANISM 9, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 10, Tony Smith Weasley: 18
+SCORE FOR ORGANISM 11, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 12, Richard Smith Carter: 120
+SCORE FOR ORGANISM 13, Hillary Carter Carter: 18
+SCORE FOR ORGANISM 14, Lyndon Carter Smith: 108
+SCORE FOR ORGANISM 15, Tony Smith Smith: 115
+SCORE FOR ORGANISM 16, Marshall Potter Jordan: 83
+SCORE FOR ORGANISM 17, Andre Weasley Weasley: 141
+SCORE FOR ORGANISM 18, Jacob Jordan Carter: 139
+SCORE FOR ORGANISM 19, George Carter Jordan: 113
+SCORE FOR ORGANISM 20, Jacob Carter Jordan: 139
+SCORE FOR ORGANISM 21, Wilford Carter Smith: 116
+SCORE FOR ORGANISM 22, Ron Smith Carter: 108
+SCORE FOR ORGANISM 23, Bill Carter Smith: 108
+SCORE FOR ORGANISM 24, Wilford Smith Carter: 108
+SCORE FOR ORGANISM 25, Jimmy Smith Smith: 18
+SCORE FOR ORGANISM 26, Jonathan Jordan Smith: 18
+SCORE FOR ORGANISM 27, Harry Smith Smith: 108
+SCORE FOR ORGANISM 28, Jerry Smith Carter: 108
+SCORE FOR ORGANISM 29, Oprah Carter Potter: 139
+
+Adult Score Mean: 116.25
+Child Score Mean: 97.0
+Mean Growth: -19.25
+
+
+Adult Score Median: 140.0
+Child Score Median: 108.0
+Median Growth: -32.0
+
+
+Adult Score Standard Deviation: 45.84513404702263
+Child Score Standard Deviation: 43.43065993307288
+Difference: -72.81934006692711
+
+GENERATION 5
+SCORE FOR ORGANISM 0, Rick Potter: 139
+SCORE FOR ORGANISM 1, Carrie Weasley Jordan: 139
+SCORE FOR ORGANISM 2, Jacob Carter Weasley: 139
+SCORE FOR ORGANISM 3, Karl Weasley Smith: 139
+SCORE FOR ORGANISM 4, Andre Weasley Weasley: 135
+SCORE FOR ORGANISM 5, Broderick Carter: 144
+SCORE FOR ORGANISM 6, Steven Carter Smith: 146
+SCORE FOR ORGANISM 7, Michel Potter Carter: 147
+SCORE FOR ORGANISM 8, Steven Smith: 152
+SCORE FOR ORGANISM 9, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 10, Karl Jordan Smith: 18
+SCORE FOR ORGANISM 11, Alex Weasley Carter: 117
+SCORE FOR ORGANISM 12, Morty Carter Smith: 18
+SCORE FOR ORGANISM 13, Rick Weasley Jordan: 108
+SCORE FOR ORGANISM 14, Barack Jordan Weasley: 18
+SCORE FOR ORGANISM 15, Morty Potter Potter: 108
+SCORE FOR ORGANISM 16, Michael Weasley Carter: 108
+SCORE FOR ORGANISM 17, Calvin Smith Smith: 139
+SCORE FOR ORGANISM 18, Rick Carter Smith: 18
+SCORE FOR ORGANISM 19, Bill Jordan Weasley: 108
+SCORE FOR ORGANISM 20, Donald Weasley Jordan: 120
+SCORE FOR ORGANISM 21, Oprah Carter Carter: 139
+SCORE FOR ORGANISM 22, Broderick Smith Jordan: 113
+SCORE FOR ORGANISM 23, Laura Carter Smith: 18
+SCORE FOR ORGANISM 24, Bernard Carter Carter: 109
+SCORE FOR ORGANISM 25, Jerry Smith Jordan: 18
+SCORE FOR ORGANISM 26, Elvis Jordan Smith: 120
+SCORE FOR ORGANISM 27, Benhardt Jordan Smith: 53
+SCORE FOR ORGANISM 28, Calvin Smith Carter: 109
+SCORE FOR ORGANISM 29, Jerry Smith Smith: 141
+
+Adult Score Mean: 109.65
+Child Score Mean: 94.0
+Mean Growth: -15.650000000000006
+
+
+Adult Score Median: 137.0
+Child Score Median: 111.0
+Median Growth: -26.0
+
+
+Adult Score Standard Deviation: 49.30172944548487
+Child Score Standard Deviation: 46.702367296649015
+Difference: -62.94763270335099
+
+GENERATION 6
+SCORE FOR ORGANISM 0, Jacob Carter Weasley: 141
+SCORE FOR ORGANISM 1, Karl Weasley Smith: 141
+SCORE FOR ORGANISM 2, Calvin Smith Smith: 141
+SCORE FOR ORGANISM 3, Oprah Carter Carter: 141
+SCORE FOR ORGANISM 4, Jerry Smith Smith: 139
+SCORE FOR ORGANISM 5, Broderick Carter: 146
+SCORE FOR ORGANISM 6, Steven Carter Smith: 146
+SCORE FOR ORGANISM 7, Michel Potter Carter: 152
+SCORE FOR ORGANISM 8, Steven Smith: 152
+SCORE FOR ORGANISM 9, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 10, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 11, Bob Carter Jordan: 18
+SCORE FOR ORGANISM 12, Michael Smith Smith: 120
+SCORE FOR ORGANISM 13, Michael Carter Carter: 18
+SCORE FOR ORGANISM 14, Michael Smith Carter: 108
+SCORE FOR ORGANISM 15, Stefan Carter Carter: 68
+SCORE FOR ORGANISM 16, Laura Carter Smith: 108
+SCORE FOR ORGANISM 17, Marshall Jordan Smith: 115
+SCORE FOR ORGANISM 18, Karl Weasley Carter: 109
+SCORE FOR ORGANISM 19, Elvis Carter Smith: 137
+SCORE FOR ORGANISM 20, Hillary Carter Jordan: 18
+SCORE FOR ORGANISM 21, Calvin Smith Carter: 108
+SCORE FOR ORGANISM 22, Cathy Weasley Carter: 108
+SCORE FOR ORGANISM 23, Karl Smith Smith: 18
+SCORE FOR ORGANISM 24, Ron Smith Smith: 153
+SCORE FOR ORGANISM 25, Bernard Jordan Smith: 18
+SCORE FOR ORGANISM 26, Broderick Carter Jordan: 18
+SCORE FOR ORGANISM 27, Harry Smith Smith: 115
+SCORE FOR ORGANISM 28, Wilford Weasley Smith: 18
+SCORE FOR ORGANISM 29, Jerry Smith Smith: 109
+
+Adult Score Mean: 118.05
+Child Score Mean: 68.3
+Mean Growth: -49.75
+
+
+Adult Score Median: 138.0
+Child Score Median: 63.0
+Median Growth: -75.0
+
+
+Adult Score Standard Deviation: 40.33866500935352
+Child Score Standard Deviation: 54.58337150125892
+Difference: -63.46662849874108
+
+GENERATION 7
+SCORE FOR ORGANISM 0, Jacob Carter Weasley: 139
+SCORE FOR ORGANISM 1, Karl Weasley Smith: 139
+SCORE FOR ORGANISM 2, Calvin Smith Smith: 139
+SCORE FOR ORGANISM 3, Oprah Carter Carter: 139
+SCORE FOR ORGANISM 4, Broderick Carter: 144
+SCORE FOR ORGANISM 5, Steven Carter Smith: 146
+SCORE FOR ORGANISM 6, Michel Potter Carter: 147
+SCORE FOR ORGANISM 7, Steven Smith: 152
+SCORE FOR ORGANISM 8, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 9, Ron Smith Smith: 153
+SCORE FOR ORGANISM 10, Harry Smith Weasley: 18
+SCORE FOR ORGANISM 11, Elvis Jordan Carter: 120
+SCORE FOR ORGANISM 12, Michel Smith Carter: 113
+SCORE FOR ORGANISM 13, Greg Carter Smith: 108
+SCORE FOR ORGANISM 14, Marshall Carter Jordan: 18
+SCORE FOR ORGANISM 15, Bernard Smith Smith: 108
+SCORE FOR ORGANISM 16, Cathy Weasley Smith: 18
+SCORE FOR ORGANISM 17, Morty Weasley Jordan: 78
+SCORE FOR ORGANISM 18, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 19, Justin Smith Weasley: 108
+SCORE FOR ORGANISM 20, Michael Smith Smith: 18
+SCORE FOR ORGANISM 21, Broderick Smith Smith: 139
+SCORE FOR ORGANISM 22, Harry Smith Smith: 162
+SCORE FOR ORGANISM 23, Karl Smith Carter: 120
+SCORE FOR ORGANISM 24, Charles Smith Smith: 108
+SCORE FOR ORGANISM 25, Jerry Smith Carter: 114
+SCORE FOR ORGANISM 26, Bill Weasley Smith: 108
+SCORE FOR ORGANISM 27, Jacob Smith Smith: 108
+SCORE FOR ORGANISM 28, Elvis Jordan Smith: 109
+SCORE FOR ORGANISM 29, Michael Weasley Smith: 108
+
+Adult Score Mean: 114.4
+Child Score Mean: 109.4
+Mean Growth: -5.0
+
+
+Adult Score Median: 139.0
+Child Score Median: 108.5
+Median Growth: -30.5
+
+
+Adult Score Standard Deviation: 46.02104781624668
+Child Score Standard Deviation: 36.724802397169015
+Difference: -77.67519760283099
+
+GENERATION 8
+SCORE FOR ORGANISM 0, Oprah Carter Carter: 141
+SCORE FOR ORGANISM 1, Broderick Smith Smith: 141
+SCORE FOR ORGANISM 2, Broderick Carter: 146
+SCORE FOR ORGANISM 3, Steven Carter Smith: 146
+SCORE FOR ORGANISM 4, Michel Potter Carter: 152
+SCORE FOR ORGANISM 5, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 6, Steven Smith: 152
+SCORE FOR ORGANISM 7, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 8, Ron Smith Smith: 153
+SCORE FOR ORGANISM 9, Harry Smith Smith: 162
+SCORE FOR ORGANISM 10, Bill Smith Smith: 108
+SCORE FOR ORGANISM 11, Laura Smith Smith: 18
+SCORE FOR ORGANISM 12, Broderick Smith Smith: 141
+SCORE FOR ORGANISM 13, Cathy Smith Smith: 18
+SCORE FOR ORGANISM 14, Benhardt Carter Jordan: 18
+SCORE FOR ORGANISM 15, Marshall Jordan Carter: 18
+SCORE FOR ORGANISM 16, Barack Smith Smith: 18
+SCORE FOR ORGANISM 17, Michel Carter Smith: 115
+SCORE FOR ORGANISM 18, Benhardt Smith Jordan: 109
+SCORE FOR ORGANISM 19, George Carter Smith: 18
+SCORE FOR ORGANISM 20, Jerry Carter Carter: 108
+SCORE FOR ORGANISM 21, Tony Smith Smith: 113
+SCORE FOR ORGANISM 22, Rick Smith Smith: 141
+SCORE FOR ORGANISM 23, Justin Smith Carter: 18
+SCORE FOR ORGANISM 24, Cathy Smith Smith: 53
+SCORE FOR ORGANISM 25, Ron Smith Carter: 18
+SCORE FOR ORGANISM 26, Michel Smith Carter: 108
+SCORE FOR ORGANISM 27, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 28, Jimmy Smith Carter: 108
+SCORE FOR ORGANISM 29, Karl Jordan Smith: 139
+
+Adult Score Mean: 103.75
+Child Score Mean: 91.4
+Mean Growth: -12.349999999999994
+
+
+Adult Score Median: 141.0
+Child Score Median: 108.0
+Median Growth: -33.0
+
+
+Adult Score Standard Deviation: 59.33036410863461
+Child Score Standard Deviation: 45.392608306737436
+Difference: -58.357391693262564
+
+GENERATION 9
+SCORE FOR ORGANISM 0, Broderick Smith Smith: 139
+SCORE FOR ORGANISM 1, Rick Smith Smith: 139
+SCORE FOR ORGANISM 2, Broderick Carter: 144
+SCORE FOR ORGANISM 3, Steven Carter Smith: 146
+SCORE FOR ORGANISM 4, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 5, Michel Potter Carter: 147
+SCORE FOR ORGANISM 6, Steven Smith: 152
+SCORE FOR ORGANISM 7, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 8, Ron Smith Smith: 153
+SCORE FOR ORGANISM 9, Harry Smith Smith: 162
+SCORE FOR ORGANISM 10, Elvis Carter Smith: 120
+SCORE FOR ORGANISM 11, Harry Smith Smith: 18
+SCORE FOR ORGANISM 12, Hillary Carter Smith: 108
+SCORE FOR ORGANISM 13, Jerry Smith Jordan: 113
+SCORE FOR ORGANISM 14, Greg Carter Smith: 139
+SCORE FOR ORGANISM 15, Donald Carter Smith: 120
+SCORE FOR ORGANISM 16, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 17, Tony Smith Smith: 18
+SCORE FOR ORGANISM 18, Steven Smith Smith: 18
+SCORE FOR ORGANISM 19, Lyndon Smith Carter: 18
+SCORE FOR ORGANISM 20, Broderick Carter Smith: 18
+SCORE FOR ORGANISM 21, Jacob Smith Smith: 18
+SCORE FOR ORGANISM 22, Greg Jordan Smith: 141
+SCORE FOR ORGANISM 23, Andre Smith Smith: 113
+SCORE FOR ORGANISM 24, Charles Smith Smith: 108
+SCORE FOR ORGANISM 25, Wilford Smith Smith: 119
+SCORE FOR ORGANISM 26, Charles Jordan Smith: 18
+SCORE FOR ORGANISM 27, Ron Smith Smith: 113
+SCORE FOR ORGANISM 28, Steven Smith Smith: 18
+SCORE FOR ORGANISM 29, Jimmy Carter Smith: 115
+
+Adult Score Mean: 115.4
+Child Score Mean: 78.1
+Mean Growth: -37.30000000000001
+
+
+Adult Score Median: 139.0
+Child Score Median: 110.5
+Median Growth: -28.5
+
+
+Adult Score Standard Deviation: 51.95585170426705
+Child Score Standard Deviation: 52.46046130182235
+Difference: -62.93953869817766
+
+GENERATION 10
+SCORE FOR ORGANISM 0, Greg Jordan Smith: 139
+SCORE FOR ORGANISM 1, Broderick Carter: 146
+SCORE FOR ORGANISM 2, Steven Carter Smith: 146
+SCORE FOR ORGANISM 3, Michel Potter Carter: 152
+SCORE FOR ORGANISM 4, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 5, Steven Smith: 152
+SCORE FOR ORGANISM 6, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 7, Ron Smith Smith: 153
+SCORE FOR ORGANISM 8, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 9, Harry Smith Smith: 162
+SCORE FOR ORGANISM 10, Michael Smith Smith: 141
+SCORE FOR ORGANISM 11, Stefan Jordan Smith: 18
+SCORE FOR ORGANISM 12, Justin Smith Smith: 263
+SCORE FOR ORGANISM 13, Marshall Jordan Carter: 108
+SCORE FOR ORGANISM 14, Jacob Carter Jordan: 109
+SCORE FOR ORGANISM 15, Jonathan Carter Carter: 18
+SCORE FOR ORGANISM 16, Michael Smith Smith: 108
+SCORE FOR ORGANISM 17, Elvis Smith Smith: 108
+SCORE FOR ORGANISM 18, Harry Smith Carter: 108
+SCORE FOR ORGANISM 19, Donald Smith Smith: 108
+SCORE FOR ORGANISM 20, Karl Smith Carter: 159
+SCORE FOR ORGANISM 21, Carrie Carter Smith: 108
+SCORE FOR ORGANISM 22, Marshall Smith Smith: 108
+SCORE FOR ORGANISM 23, Charles Smith Carter: 18
+SCORE FOR ORGANISM 24, Laura Carter Jordan: 139
+SCORE FOR ORGANISM 25, Jonathan Smith Carter: 18
+SCORE FOR ORGANISM 26, Oprah Carter Jordan: 115
+SCORE FOR ORGANISM 27, Marshall Jordan Carter: 141
+SCORE FOR ORGANISM 28, Cathy Smith Smith: 88
+SCORE FOR ORGANISM 29, Jonathan Jordan Smith: 157
+
+Adult Score Mean: 129.65
+Child Score Mean: 105.1
+Mean Growth: -24.55000000000001
+
+
+Adult Score Median: 143.5
+Child Score Median: 111.5
+Median Growth: -32.0
+
+
+Adult Score Standard Deviation: 51.42830983642744
+Child Score Standard Deviation: 51.22596997617517
+Difference: -78.42403002382483
+
+GENERATION 11
+SCORE FOR ORGANISM 0, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 1, Michel Potter Carter: 147
+SCORE FOR ORGANISM 2, Steven Smith: 152
+SCORE FOR ORGANISM 3, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 4, Ron Smith Smith: 153
+SCORE FOR ORGANISM 5, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 6, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Cathy Smith Carter: 108
+SCORE FOR ORGANISM 11, Alex Smith Smith: 139
+SCORE FOR ORGANISM 12, Elvis Carter Smith: 98
+SCORE FOR ORGANISM 13, Jacob Smith Carter: 73
+SCORE FOR ORGANISM 14, Alex Smith Carter: 108
+SCORE FOR ORGANISM 15, Tony Smith Carter: 108
+SCORE FOR ORGANISM 16, George Smith Smith: 113
+SCORE FOR ORGANISM 17, Andre Smith Carter: 124
+SCORE FOR ORGANISM 18, Marshall Smith Smith: 18
+SCORE FOR ORGANISM 19, Lyndon Smith Smith: 108
+SCORE FOR ORGANISM 20, Donald Smith Smith: 18
+SCORE FOR ORGANISM 21, Bernard Jordan Smith: 18
+SCORE FOR ORGANISM 22, Richard Jordan Smith: 108
+SCORE FOR ORGANISM 23, Laura Jordan Carter: 18
+SCORE FOR ORGANISM 24, Michel Smith Smith: 108
+SCORE FOR ORGANISM 25, Benhardt Smith Smith: 139
+SCORE FOR ORGANISM 26, Michael Smith Smith: 109
+SCORE FOR ORGANISM 27, Justin Carter Smith: 18
+SCORE FOR ORGANISM 28, Morty Smith Carter: 18
+SCORE FOR ORGANISM 29, Jerry Jordan Smith: 108
+
+Adult Score Mean: 132.2
+Child Score Mean: 66.2
+Mean Growth: -65.99999999999999
+
+
+Adult Score Median: 143.0
+Child Score Median: 63.0
+Median Growth: -80.0
+
+
+Adult Score Standard Deviation: 47.032575497145984
+Child Score Standard Deviation: 51.62858811851348
+Difference: -80.57141188148651
+
+GENERATION 12
+SCORE FOR ORGANISM 0, Michel Potter Carter: 152
+SCORE FOR ORGANISM 1, Albert Weasley Smith: 148
+SCORE FOR ORGANISM 2, Steven Smith: 152
+SCORE FOR ORGANISM 3, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 4, Ron Smith Smith: 153
+SCORE FOR ORGANISM 5, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 6, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Broderick Smith Smith: 109
+SCORE FOR ORGANISM 11, Carrie Carter Smith: 18
+SCORE FOR ORGANISM 12, Barack Jordan Smith: 18
+SCORE FOR ORGANISM 13, Albert Smith Smith: 108
+SCORE FOR ORGANISM 14, Barack Smith Smith: 109
+SCORE FOR ORGANISM 15, Calvin Smith Smith: 139
+SCORE FOR ORGANISM 16, Richard Smith Smith: 18
+SCORE FOR ORGANISM 17, Justin Smith Smith: 108
+SCORE FOR ORGANISM 18, Michael Smith Smith: 113
+SCORE FOR ORGANISM 19, Steven Carter Jordan: 108
+SCORE FOR ORGANISM 20, Jerry Smith Carter: 18
+SCORE FOR ORGANISM 21, Harry Smith Smith: 108
+SCORE FOR ORGANISM 22, Jonathan Smith Smith: 18
+SCORE FOR ORGANISM 23, Bill Smith Smith: 108
+SCORE FOR ORGANISM 24, Jerry Smith Carter: 18
+SCORE FOR ORGANISM 25, Steven Smith Carter: 108
+SCORE FOR ORGANISM 26, Cathy Carter Carter: 108
+SCORE FOR ORGANISM 27, Bernard Smith Smith: 148
+SCORE FOR ORGANISM 28, Michael Smith Smith: 108
+SCORE FOR ORGANISM 29, Michel Jordan Smith: 120
+
+Adult Score Mean: 125.0
+Child Score Mean: 86.2
+Mean Growth: -38.8
+
+
+Adult Score Median: 143.5
+Child Score Median: 108.0
+Median Growth: -35.5
+
+
+Adult Score Standard Deviation: 57.58197817482755
+Child Score Standard Deviation: 48.6388048098772
+Difference: -76.3611951901228
+
+GENERATION 13
+SCORE FOR ORGANISM 0, Bernard Smith Smith: 148
+SCORE FOR ORGANISM 1, Michel Potter Carter: 147
+SCORE FOR ORGANISM 2, Steven Smith: 152
+SCORE FOR ORGANISM 3, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 4, Ron Smith Smith: 153
+SCORE FOR ORGANISM 5, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 6, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Broderick Smith Carter: 18
+SCORE FOR ORGANISM 11, Andre Smith Carter: 18
+SCORE FOR ORGANISM 12, Cathy Smith Jordan: 141
+SCORE FOR ORGANISM 13, Jacob Smith Smith: 18
+SCORE FOR ORGANISM 14, Andre Smith Smith: 115
+SCORE FOR ORGANISM 15, Bob Smith Carter: 18
+SCORE FOR ORGANISM 16, Karl Smith Smith: 18
+SCORE FOR ORGANISM 17, Ron Smith Smith: 18
+SCORE FOR ORGANISM 18, Broderick Smith Smith: 18
+SCORE FOR ORGANISM 19, Andre Smith Carter: 108
+SCORE FOR ORGANISM 20, Donald Smith Jordan: 108
+SCORE FOR ORGANISM 21, Karl Carter Smith: 157
+SCORE FOR ORGANISM 22, Rick Smith Carter: 18
+SCORE FOR ORGANISM 23, Laura Smith Smith: 137
+SCORE FOR ORGANISM 24, Michael Smith Smith: 115
+SCORE FOR ORGANISM 25, Richard Smith Smith: 18
+SCORE FOR ORGANISM 26, Bernard Smith Jordan: 120
+SCORE FOR ORGANISM 27, Wilford Jordan Smith: 18
+SCORE FOR ORGANISM 28, Bob Carter Smith: 18
+SCORE FOR ORGANISM 29, Elvis Smith Smith: 18
+
+Adult Score Mean: 106.85
+Child Score Mean: 72.7
+Mean Growth: -34.14999999999999
+
+
+Adult Score Median: 144.0
+Child Score Median: 63.0
+Median Growth: -81.0
+
+
+Adult Score Standard Deviation: 72.86850088380186
+Child Score Standard Deviation: 59.136471168156646
+Difference: -47.71352883184335
+
+GENERATION 14
+SCORE FOR ORGANISM 0, Bernard Smith Smith: 148
+SCORE FOR ORGANISM 1, Steven Smith: 152
+SCORE FOR ORGANISM 2, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 3, Ron Smith Smith: 153
+SCORE FOR ORGANISM 4, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 5, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 6, Karl Carter Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Stefan Smith Smith: 108
+SCORE FOR ORGANISM 11, Lyndon Smith Jordan: 23
+SCORE FOR ORGANISM 12, Jacob Smith Carter: 108
+SCORE FOR ORGANISM 13, Andre Smith Smith: 18
+SCORE FOR ORGANISM 14, Steven Jordan Smith: 18
+SCORE FOR ORGANISM 15, Ron Smith Smith: 141
+SCORE FOR ORGANISM 16, Charles Smith Carter: 113
+SCORE FOR ORGANISM 17, Broderick Smith Smith: 108
+SCORE FOR ORGANISM 18, Stefan Smith Smith: 120
+SCORE FOR ORGANISM 19, Michael Smith Smith: 18
+SCORE FOR ORGANISM 20, Barack Smith Smith: 108
+SCORE FOR ORGANISM 21, Barack Smith Smith: 115
+SCORE FOR ORGANISM 22, Oprah Smith Smith: 18
+SCORE FOR ORGANISM 23, Steven Smith Smith: 18
+SCORE FOR ORGANISM 24, Charles Smith Carter: 120
+SCORE FOR ORGANISM 25, Alex Smith Smith: 18
+SCORE FOR ORGANISM 26, George Carter Smith: 113
+SCORE FOR ORGANISM 27, Donald Smith Smith: 18
+SCORE FOR ORGANISM 28, Charles Carter Smith: 109
+SCORE FOR ORGANISM 29, Jonathan Smith Smith: 18
+
+Adult Score Mean: 121.6
+Child Score Mean: 65.5
+Mean Growth: -56.099999999999994
+
+
+Adult Score Median: 144.5
+Child Score Median: 63.0
+Median Growth: -81.5
+
+
+Adult Score Standard Deviation: 62.00118844361818
+Child Score Standard Deviation: 50.173587562470445
+Difference: -71.42641243752955
+
+GENERATION 15
+SCORE FOR ORGANISM 0, Bernard Smith Smith: 148
+SCORE FOR ORGANISM 1, Steven Smith: 152
+SCORE FOR ORGANISM 2, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 3, Ron Smith Smith: 153
+SCORE FOR ORGANISM 4, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 5, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 6, Karl Carter Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Ron Smith Smith: 108
+SCORE FOR ORGANISM 11, George Smith Smith: 108
+SCORE FOR ORGANISM 12, George Smith Smith: 108
+SCORE FOR ORGANISM 13, Greg Smith Smith: 157
+SCORE FOR ORGANISM 14, George Smith Smith: 108
+SCORE FOR ORGANISM 15, Barack Smith Smith: 18
+SCORE FOR ORGANISM 16, Rick Carter Smith: 108
+SCORE FOR ORGANISM 17, Greg Smith Smith: 18
+SCORE FOR ORGANISM 18, Bob Jordan Smith: 109
+SCORE FOR ORGANISM 19, Donald Carter Smith: 18
+SCORE FOR ORGANISM 20, George Smith Smith: 18
+SCORE FOR ORGANISM 21, Laura Carter Smith: 18
+SCORE FOR ORGANISM 22, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 23, Hillary Smith Carter: 18
+SCORE FOR ORGANISM 24, Bill Smith Smith: 18
+SCORE FOR ORGANISM 25, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 26, Alex Jordan Smith: 108
+SCORE FOR ORGANISM 27, Jerry Carter Jordan: 108
+SCORE FOR ORGANISM 28, Michel Jordan Smith: 18
+SCORE FOR ORGANISM 29, George Smith Smith: 18
+
+Adult Score Mean: 125.85
+Child Score Mean: 45.0
+Mean Growth: -80.85
+
+
+Adult Score Median: 150.0
+Child Score Median: 18.0
+Median Growth: -132.0
+
+
+Adult Score Standard Deviation: 58.16697833325239
+Child Score Standard Deviation: 43.474130238568314
+Difference: -82.37586976143169
+
+GENERATION 16
+SCORE FOR ORGANISM 0, Steven Smith: 152
+SCORE FOR ORGANISM 1, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 2, Ron Smith Smith: 153
+SCORE FOR ORGANISM 3, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 4, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 5, Karl Carter Smith: 157
+SCORE FOR ORGANISM 6, Greg Smith Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Rick Smith Jordan: 18
+SCORE FOR ORGANISM 11, Karl Carter Smith: 108
+SCORE FOR ORGANISM 12, Broderick Smith Smith: 120
+SCORE FOR ORGANISM 13, Barack Smith Smith: 73
+SCORE FOR ORGANISM 14, Carrie Smith Smith: 108
+SCORE FOR ORGANISM 15, Ron Smith Smith: 18
+SCORE FOR ORGANISM 16, Justin Smith Smith: 68
+SCORE FOR ORGANISM 17, Laura Smith Carter: 108
+SCORE FOR ORGANISM 18, Wilford Smith Smith: 108
+SCORE FOR ORGANISM 19, Greg Smith Smith: 141
+SCORE FOR ORGANISM 20, Michel Smith Jordan: 109
+SCORE FOR ORGANISM 21, Calvin Smith Smith: 18
+SCORE FOR ORGANISM 22, George Smith Smith: 108
+SCORE FOR ORGANISM 23, Oprah Smith Smith: 113
+SCORE FOR ORGANISM 24, Donald Smith Smith: 18
+SCORE FOR ORGANISM 25, George Smith Carter: 73
+SCORE FOR ORGANISM 26, Carrie Smith Smith: 18
+SCORE FOR ORGANISM 27, Hillary Smith Smith: 58
+SCORE FOR ORGANISM 28, Wilford Smith Smith: 145
+SCORE FOR ORGANISM 29, Justin Smith Carter: 18
+
+Adult Score Mean: 126.8
+Child Score Mean: 67.8
+Mean Growth: -59.0
+
+
+Adult Score Median: 146.5
+Child Score Median: 65.5
+Median Growth: -81.0
+
+
+Adult Score Standard Deviation: 55.224517819724355
+Child Score Standard Deviation: 48.71641293125848
+Difference: -78.08358706874151
+
+GENERATION 17
+SCORE FOR ORGANISM 0, Steven Smith: 152
+SCORE FOR ORGANISM 1, Stefan Carter Jordan: 153
+SCORE FOR ORGANISM 2, Ron Smith Smith: 153
+SCORE FOR ORGANISM 3, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 4, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 5, Karl Carter Smith: 157
+SCORE FOR ORGANISM 6, Greg Smith Smith: 157
+SCORE FOR ORGANISM 7, Karl Smith Carter: 159
+SCORE FOR ORGANISM 8, Harry Smith Smith: 162
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Wilford Smith Carter: 120
+SCORE FOR ORGANISM 11, Jimmy Smith Smith: 18
+SCORE FOR ORGANISM 12, Calvin Jordan Smith: 120
+SCORE FOR ORGANISM 13, Alex Smith Smith: 120
+SCORE FOR ORGANISM 14, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 15, Benhardt Carter Smith: 18
+SCORE FOR ORGANISM 16, Tony Smith Smith: 68
+SCORE FOR ORGANISM 17, Bob Smith Carter: 113
+SCORE FOR ORGANISM 18, Ron Smith Carter: 108
+SCORE FOR ORGANISM 19, Benhardt Smith Jordan: 18
+SCORE FOR ORGANISM 20, Albert Smith Smith: 113
+SCORE FOR ORGANISM 21, Harry Smith Carter: 18
+SCORE FOR ORGANISM 22, Michael Smith Smith: 139
+SCORE FOR ORGANISM 23, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 24, Calvin Smith Smith: 120
+SCORE FOR ORGANISM 25, Jonathan Smith Smith: 18
+SCORE FOR ORGANISM 26, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 27, Cathy Smith Carter: 109
+SCORE FOR ORGANISM 28, Harry Carter Smith: 18
+SCORE FOR ORGANISM 29, Tony Smith Smith: 18
+
+Adult Score Mean: 126.8
+Child Score Mean: 96.4
+Mean Growth: -30.39999999999999
+
+
+Adult Score Median: 152.5
+Child Score Median: 111.0
+Median Growth: -41.5
+
+
+Adult Score Standard Deviation: 59.615081101486744
+Child Score Standard Deviation: 78.16108722091548
+Difference: -48.63891277908452
+
+GENERATION 18
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Jimmy Smith Carter: 139
+SCORE FOR ORGANISM 11, Greg Smith Smith: 108
+SCORE FOR ORGANISM 12, Barack Smith Smith: 138
+SCORE FOR ORGANISM 13, Lyndon Smith Smith: 115
+SCORE FOR ORGANISM 14, Wilford Smith Carter: 147
+SCORE FOR ORGANISM 15, Stefan Carter Smith: 108
+SCORE FOR ORGANISM 16, Broderick Carter Smith: 108
+SCORE FOR ORGANISM 17, Karl Carter Smith: 108
+SCORE FOR ORGANISM 18, Calvin Smith Smith: 108
+SCORE FOR ORGANISM 19, Steven Smith Smith: 113
+SCORE FOR ORGANISM 20, Elvis Carter Smith: 38
+SCORE FOR ORGANISM 21, Richard Carter Smith: 18
+SCORE FOR ORGANISM 22, Tony Carter Smith: 141
+SCORE FOR ORGANISM 23, Justin Smith Smith: 18
+SCORE FOR ORGANISM 24, Steven Smith Smith: 113
+SCORE FOR ORGANISM 25, Greg Smith Smith: 18
+SCORE FOR ORGANISM 26, Lyndon Smith Carter: 141
+SCORE FOR ORGANISM 27, Laura Smith Smith: 141
+SCORE FOR ORGANISM 28, Rick Carter Smith: 18
+SCORE FOR ORGANISM 29, Justin Carter Smith: 108
+
+Adult Score Mean: 149.2
+Child Score Mean: 75.4
+Mean Growth: -73.79999999999998
+
+
+Adult Score Median: 150.0
+Child Score Median: 73.0
+Median Growth: -77.0
+
+
+Adult Score Standard Deviation: 43.69945200186334
+Child Score Standard Deviation: 57.70076063430861
+Difference: -91.49923936569138
+
+GENERATION 19
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, George Smith Smith: 120
+SCORE FOR ORGANISM 11, Michel Smith Carter: 108
+SCORE FOR ORGANISM 12, Lyndon Carter Smith: 152
+SCORE FOR ORGANISM 13, Broderick Smith Smith: 108
+SCORE FOR ORGANISM 14, Rick Smith Smith: 18
+SCORE FOR ORGANISM 15, George Smith Smith: 108
+SCORE FOR ORGANISM 16, Charles Smith Smith: 18
+SCORE FOR ORGANISM 17, Lyndon Smith Carter: 113
+SCORE FOR ORGANISM 18, Tony Smith Smith: 18
+SCORE FOR ORGANISM 19, Jimmy Smith Smith: 18
+SCORE FOR ORGANISM 20, Steven Smith Smith: 132
+SCORE FOR ORGANISM 21, Benhardt Smith Smith: 113
+SCORE FOR ORGANISM 22, Alex Smith Smith: 139
+SCORE FOR ORGANISM 23, Greg Smith Smith: 113
+SCORE FOR ORGANISM 24, Barack Carter Smith: 18
+SCORE FOR ORGANISM 25, Andre Smith Smith: 108
+SCORE FOR ORGANISM 26, Karl Smith Smith: 108
+SCORE FOR ORGANISM 27, Benhardt Carter Smith: 88
+SCORE FOR ORGANISM 28, Bernard Smith Smith: 108
+SCORE FOR ORGANISM 29, Hillary Smith Smith: 137
+
+Adult Score Mean: 128.35
+Child Score Mean: 106.4
+Mean Growth: -21.94999999999999
+
+
+Adult Score Median: 152.5
+Child Score Median: 110.5
+Median Growth: -42.0
+
+
+Adult Score Standard Deviation: 69.30882453118605
+Child Score Standard Deviation: 34.80485279063507
+Difference: -93.54514720936493
+
+GENERATION 20
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Calvin Smith Carter: 108
+SCORE FOR ORGANISM 11, Oprah Carter Smith: 18
+SCORE FOR ORGANISM 12, Richard Smith Smith: 108
+SCORE FOR ORGANISM 13, Barack Carter Carter: 108
+SCORE FOR ORGANISM 14, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 15, Charles Smith Carter: 108
+SCORE FOR ORGANISM 16, Justin Carter Smith: 108
+SCORE FOR ORGANISM 17, Michael Smith Smith: 108
+SCORE FOR ORGANISM 18, Calvin Smith Smith: 115
+SCORE FOR ORGANISM 19, Hillary Smith Carter: 18
+SCORE FOR ORGANISM 20, Jonathan Carter Smith: 109
+SCORE FOR ORGANISM 21, Albert Smith Carter: 141
+SCORE FOR ORGANISM 22, Carrie Carter Carter: 108
+SCORE FOR ORGANISM 23, Richard Smith Carter: 48
+SCORE FOR ORGANISM 24, Elvis Smith Smith: 108
+SCORE FOR ORGANISM 25, George Smith Smith: 108
+SCORE FOR ORGANISM 26, Benhardt Smith Smith: 108
+SCORE FOR ORGANISM 27, Broderick Smith Carter: 152
+SCORE FOR ORGANISM 28, Hillary Carter Carter: 18
+SCORE FOR ORGANISM 29, George Smith Smith: 108
+
+Adult Score Mean: 134.95
+Child Score Mean: 100.8
+Mean Growth: -34.14999999999999
+
+
+Adult Score Median: 134.0
+Child Score Median: 108.0
+Median Growth: -26.0
+
+
+Adult Score Standard Deviation: 60.04338343845092
+Child Score Standard Deviation: 39.73187916802102
+Difference: -95.21812083197898
+
+GENERATION 21
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Michel Carter Smith: 18
+SCORE FOR ORGANISM 11, Greg Smith Smith: 115
+SCORE FOR ORGANISM 12, Bill Smith Smith: 108
+SCORE FOR ORGANISM 13, Ron Smith Smith: 120
+SCORE FOR ORGANISM 14, Jerry Carter Smith: 113
+SCORE FOR ORGANISM 15, Barack Smith Carter: 142
+SCORE FOR ORGANISM 16, Cathy Smith Carter: 108
+SCORE FOR ORGANISM 17, Alex Smith Smith: 109
+SCORE FOR ORGANISM 18, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 19, Karl Carter Smith: 18
+SCORE FOR ORGANISM 20, Morty Carter Smith: 18
+SCORE FOR ORGANISM 21, Jerry Carter Smith: 139
+SCORE FOR ORGANISM 22, Calvin Smith Smith: 18
+SCORE FOR ORGANISM 23, Bob Carter Smith: 113
+SCORE FOR ORGANISM 24, Bernard Smith Smith: 148
+SCORE FOR ORGANISM 25, Rick Smith Smith: 113
+SCORE FOR ORGANISM 26, Calvin Smith Carter: 108
+SCORE FOR ORGANISM 27, Bill Smith Smith: 108
+SCORE FOR ORGANISM 28, Benhardt Smith Smith: 108
+SCORE FOR ORGANISM 29, Karl Smith Smith: 108
+
+Adult Score Mean: 132.75
+Child Score Mean: 98.1
+Mean Growth: -34.650000000000006
+
+
+Adult Score Median: 147.5
+Child Score Median: 108.0
+Median Growth: -39.5
+
+
+Adult Score Standard Deviation: 64.26579265257028
+Child Score Standard Deviation: 44.51079769124691
+Difference: -88.2392023087531
+
+GENERATION 22
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Calvin Smith Smith: 139
+SCORE FOR ORGANISM 11, Jonathan Carter Smith: 18
+SCORE FOR ORGANISM 12, Stefan Smith Smith: 113
+SCORE FOR ORGANISM 13, Albert Smith Smith: 115
+SCORE FOR ORGANISM 14, Stefan Carter Carter: 83
+SCORE FOR ORGANISM 15, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 16, Calvin Smith Smith: 141
+SCORE FOR ORGANISM 17, Carrie Smith Smith: 141
+SCORE FOR ORGANISM 18, Jimmy Smith Smith: 113
+SCORE FOR ORGANISM 19, Alex Smith Smith: 18
+SCORE FOR ORGANISM 20, Andre Smith Smith: 18
+SCORE FOR ORGANISM 21, Broderick Smith Smith: 115
+SCORE FOR ORGANISM 22, Barack Smith Smith: 109
+SCORE FOR ORGANISM 23, Calvin Smith Smith: 18
+SCORE FOR ORGANISM 24, Donald Carter Smith: 18
+SCORE FOR ORGANISM 25, Donald Smith Carter: 108
+SCORE FOR ORGANISM 26, Justin Smith Smith: 108
+SCORE FOR ORGANISM 27, Hillary Smith Smith: 109
+SCORE FOR ORGANISM 28, Calvin Carter Smith: 115
+SCORE FOR ORGANISM 29, Jimmy Smith Carter: 115
+
+Adult Score Mean: 139.05
+Child Score Mean: 83.3
+Mean Growth: -55.750000000000014
+
+
+Adult Score Median: 147.0
+Child Score Median: 108.5
+Median Growth: -38.5
+
+
+Adult Score Standard Deviation: 59.62909480587829
+Child Score Standard Deviation: 45.15171954397504
+Difference: -93.89828045602496
+
+GENERATION 23
+SCORE FOR ORGANISM 0, Cathy Carter Carter: 153
+SCORE FOR ORGANISM 1, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 2, Karl Carter Smith: 157
+SCORE FOR ORGANISM 3, Greg Smith Smith: 157
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Andre Smith Smith: 109
+SCORE FOR ORGANISM 11, Elvis Smith Carter: 108
+SCORE FOR ORGANISM 12, Jonathan Smith Smith: 139
+SCORE FOR ORGANISM 13, Ron Carter Carter: 116
+SCORE FOR ORGANISM 14, Charles Smith Smith: 108
+SCORE FOR ORGANISM 15, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 16, Elvis Smith Smith: 108
+SCORE FOR ORGANISM 17, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 18, Barack Smith Smith: 109
+SCORE FOR ORGANISM 19, Ron Smith Carter: 115
+SCORE FOR ORGANISM 20, Stefan Smith Smith: 23
+SCORE FOR ORGANISM 21, Albert Carter Smith: 113
+SCORE FOR ORGANISM 22, Andre Smith Smith: 108
+SCORE FOR ORGANISM 23, Jerry Smith Smith: 18
+SCORE FOR ORGANISM 24, Laura Smith Smith: 18
+SCORE FOR ORGANISM 25, Charles Smith Smith: 108
+SCORE FOR ORGANISM 26, Bill Carter Carter: 139
+SCORE FOR ORGANISM 27, Bernard Carter Carter: 108
+SCORE FOR ORGANISM 28, Broderick Smith Smith: 108
+SCORE FOR ORGANISM 29, Jerry Carter Carter: 18
+
+Adult Score Mean: 143.7
+Child Score Mean: 76.1
+Mean Growth: -67.6
+
+
+Adult Score Median: 155.0
+Child Score Median: 108.0
+Median Growth: -47.0
+
+
+Adult Score Standard Deviation: 51.92818928198116
+Child Score Standard Deviation: 49.81621779657259
+Difference: -93.8837822034274
+
+GENERATION 24
+SCORE FOR ORGANISM 0, Jonathan Jordan Smith: 157
+SCORE FOR ORGANISM 1, Karl Carter Smith: 157
+SCORE FOR ORGANISM 2, Greg Smith Smith: 157
+SCORE FOR ORGANISM 3, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Laura Smith Smith: 141
+SCORE FOR ORGANISM 11, Alex Carter Smith: 113
+SCORE FOR ORGANISM 12, Donald Smith Smith: 108
+SCORE FOR ORGANISM 13, Laura Carter Smith: 18
+SCORE FOR ORGANISM 14, Steven Carter Smith: 18
+SCORE FOR ORGANISM 15, Harry Smith Smith: 108
+SCORE FOR ORGANISM 16, Albert Smith Smith: 115
+SCORE FOR ORGANISM 17, Rick Smith Smith: 113
+SCORE FOR ORGANISM 18, Michael Smith Carter: 141
+SCORE FOR ORGANISM 19, Michael Smith Carter: 18
+SCORE FOR ORGANISM 20, Wilford Smith Smith: 113
+SCORE FOR ORGANISM 21, Greg Smith Smith: 18
+SCORE FOR ORGANISM 22, Bill Smith Smith: 109
+SCORE FOR ORGANISM 23, Benhardt Smith Smith: 23
+SCORE FOR ORGANISM 24, Bernard Smith Smith: 113
+SCORE FOR ORGANISM 25, Elvis Carter Smith: 108
+SCORE FOR ORGANISM 26, Marshall Smith Smith: 139
+SCORE FOR ORGANISM 27, Andre Smith Smith: 141
+SCORE FOR ORGANISM 28, Jerry Smith Smith: 23
+SCORE FOR ORGANISM 29, Charles Smith Smith: 164
+
+Adult Score Mean: 134.5
+Child Score Mean: 95.1
+Mean Growth: -39.400000000000006
+
+
+Adult Score Median: 149.0
+Child Score Median: 111.0
+Median Growth: -38.0
+
+
+Adult Score Standard Deviation: 64.80050357179252
+Child Score Standard Deviation: 53.875267465177785
+Difference: -80.62473253482221
+
+GENERATION 25
+SCORE FOR ORGANISM 0, Karl Carter Smith: 157
+SCORE FOR ORGANISM 1, Greg Smith Smith: 157
+SCORE FOR ORGANISM 2, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 3, Karl Smith Carter: 159
+SCORE FOR ORGANISM 4, Harry Smith Smith: 162
+SCORE FOR ORGANISM 5, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 6, Charles Smith Smith: 144
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Oprah Smith Smith: 109
+SCORE FOR ORGANISM 11, Bob Smith Smith: 108
+SCORE FOR ORGANISM 12, Tony Smith Smith: 18
+SCORE FOR ORGANISM 13, Steven Smith Smith: 18
+SCORE FOR ORGANISM 14, Jerry Smith Carter: 108
+SCORE FOR ORGANISM 15, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 16, Stefan Smith Smith: 120
+SCORE FOR ORGANISM 17, Carrie Carter Smith: 18
+SCORE FOR ORGANISM 18, Laura Smith Smith: 18
+SCORE FOR ORGANISM 19, Barack Smith Smith: 18
+SCORE FOR ORGANISM 20, Jacob Smith Carter: 109
+SCORE FOR ORGANISM 21, Albert Smith Carter: 18
+SCORE FOR ORGANISM 22, Michael Smith Smith: 120
+SCORE FOR ORGANISM 23, Albert Smith Smith: 64
+SCORE FOR ORGANISM 24, Oprah Smith Smith: 18
+SCORE FOR ORGANISM 25, Wilford Smith Smith: 18
+SCORE FOR ORGANISM 26, Greg Smith Smith: 18
+SCORE FOR ORGANISM 27, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 28, Karl Carter Smith: 18
+SCORE FOR ORGANISM 29, Jimmy Smith Smith: 18
+
+Adult Score Mean: 121.05
+Child Score Mean: 50.9
+Mean Growth: -70.15
+
+
+Adult Score Median: 132.0
+Child Score Median: 18.0
+Median Growth: -114.0
+
+
+Adult Score Standard Deviation: 73.14619463426436
+Child Score Standard Deviation: 44.81678752927796
+Difference: -76.23321247072204
+
+GENERATION 26
+SCORE FOR ORGANISM 0, Charles Smith Smith: 164
+SCORE FOR ORGANISM 1, Karl Carter Smith: 157
+SCORE FOR ORGANISM 2, Greg Smith Smith: 157
+SCORE FOR ORGANISM 3, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Broderick Carter Smith: 146
+SCORE FOR ORGANISM 11, Donald Smith Smith: 115
+SCORE FOR ORGANISM 12, Bernard Smith Smith: 108
+SCORE FOR ORGANISM 13, Bill Smith Smith: 18
+SCORE FOR ORGANISM 14, Alex Smith Smith: 115
+SCORE FOR ORGANISM 15, Michel Carter Carter: 108
+SCORE FOR ORGANISM 16, Rick Smith Carter: 18
+SCORE FOR ORGANISM 17, Alex Smith Smith: 18
+SCORE FOR ORGANISM 18, Bill Smith Carter: 108
+SCORE FOR ORGANISM 19, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 20, Jimmy Carter Smith: 43
+SCORE FOR ORGANISM 21, Wilford Smith Smith: 113
+SCORE FOR ORGANISM 22, Albert Smith Smith: 18
+SCORE FOR ORGANISM 23, Hillary Carter Smith: 68
+SCORE FOR ORGANISM 24, Rick Carter Carter: 115
+SCORE FOR ORGANISM 25, Andre Smith Carter: 18
+SCORE FOR ORGANISM 26, Rick Carter Smith: 115
+SCORE FOR ORGANISM 27, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 28, Jacob Smith Smith: 18
+SCORE FOR ORGANISM 29, Elvis Smith Carter: 18
+
+Adult Score Mean: 128.8
+Child Score Mean: 63.4
+Mean Growth: -65.4
+
+
+Adult Score Median: 151.5
+Child Score Median: 55.5
+Median Growth: -96.0
+
+
+Adult Score Standard Deviation: 70.06583370396429
+Child Score Standard Deviation: 45.284777918315015
+Difference: -83.515222081685
+
+GENERATION 27
+SCORE FOR ORGANISM 0, Karl Carter Smith: 157
+SCORE FOR ORGANISM 1, Greg Smith Smith: 157
+SCORE FOR ORGANISM 2, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 3, Karl Smith Carter: 159
+SCORE FOR ORGANISM 4, Harry Smith Smith: 162
+SCORE FOR ORGANISM 5, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 6, Charles Smith Smith: 144
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Alex Smith Smith: 108
+SCORE FOR ORGANISM 11, George Smith Smith: 113
+SCORE FOR ORGANISM 12, Bernard Smith Carter: 18
+SCORE FOR ORGANISM 13, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 14, Carrie Smith Smith: 18
+SCORE FOR ORGANISM 15, Jerry Smith Smith: 18
+SCORE FOR ORGANISM 16, Hillary Smith Carter: 109
+SCORE FOR ORGANISM 17, Steven Smith Smith: 141
+SCORE FOR ORGANISM 18, Jimmy Smith Smith: 18
+SCORE FOR ORGANISM 19, Charles Smith Smith: 18
+SCORE FOR ORGANISM 20, Broderick Smith Smith: 139
+SCORE FOR ORGANISM 21, Oprah Smith Smith: 18
+SCORE FOR ORGANISM 22, Jonathan Smith Smith: 139
+SCORE FOR ORGANISM 23, Laura Smith Smith: 108
+SCORE FOR ORGANISM 24, Tony Smith Smith: 109
+SCORE FOR ORGANISM 25, George Smith Smith: 18
+SCORE FOR ORGANISM 26, Jerry Carter Smith: 120
+SCORE FOR ORGANISM 27, Cathy Smith Smith: 167
+SCORE FOR ORGANISM 28, Bob Carter Smith: 141
+SCORE FOR ORGANISM 29, Bernard Smith Carter: 108
+
+Adult Score Mean: 122.35
+Child Score Mean: 106.7
+Mean Growth: -15.649999999999991
+
+
+Adult Score Median: 142.5
+Child Score Median: 114.5
+Median Growth: -28.0
+
+
+Adult Score Standard Deviation: 73.23881268979261
+Child Score Standard Deviation: 50.35441059794729
+Difference: -71.9955894020527
+
+GENERATION 28
+SCORE FOR ORGANISM 0, Karl Carter Smith: 157
+SCORE FOR ORGANISM 1, Greg Smith Smith: 157
+SCORE FOR ORGANISM 2, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 3, Karl Smith Carter: 159
+SCORE FOR ORGANISM 4, Harry Smith Smith: 162
+SCORE FOR ORGANISM 5, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 6, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 7, Cathy Smith Smith: 142
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Bob Smith Smith: 83
+SCORE FOR ORGANISM 11, George Smith Smith: 115
+SCORE FOR ORGANISM 12, Jerry Smith Smith: 18
+SCORE FOR ORGANISM 13, Michael Smith Smith: 18
+SCORE FOR ORGANISM 14, Donald Smith Carter: 115
+SCORE FOR ORGANISM 15, Steven Smith Smith: 18
+SCORE FOR ORGANISM 16, Wilford Smith Smith: 108
+SCORE FOR ORGANISM 17, Karl Carter Smith: 115
+SCORE FOR ORGANISM 18, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 19, Cathy Smith Smith: 18
+SCORE FOR ORGANISM 20, Jerry Smith Smith: 18
+SCORE FOR ORGANISM 21, Bill Smith Carter: 120
+SCORE FOR ORGANISM 22, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 23, Jerry Smith Smith: 109
+SCORE FOR ORGANISM 24, Oprah Carter Smith: 18
+SCORE FOR ORGANISM 25, Ron Smith Carter: 120
+SCORE FOR ORGANISM 26, Oprah Carter Smith: 141
+SCORE FOR ORGANISM 27, Barack Smith Smith: 115
+SCORE FOR ORGANISM 28, Jacob Smith Carter: 115
+SCORE FOR ORGANISM 29, Oprah Carter Carter: 18
+
+Adult Score Mean: 124.9
+Child Score Mean: 79.2
+Mean Growth: -45.7
+
+
+Adult Score Median: 128.5
+Child Score Median: 112.0
+Median Growth: -16.5
+
+
+Adult Score Standard Deviation: 70.13738398014961
+Child Score Standard Deviation: 53.314163221418006
+Difference: -71.585836778582
+
+GENERATION 29
+SCORE FOR ORGANISM 0, Cathy Smith Smith: 167
+SCORE FOR ORGANISM 1, Karl Carter Smith: 157
+SCORE FOR ORGANISM 2, Greg Smith Smith: 157
+SCORE FOR ORGANISM 3, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Ron Smith Smith: 18
+SCORE FOR ORGANISM 11, Harry Smith Smith: 18
+SCORE FOR ORGANISM 12, Calvin Carter Smith: 113
+SCORE FOR ORGANISM 13, Bill Smith Smith: 18
+SCORE FOR ORGANISM 14, Andre Smith Smith: 18
+SCORE FOR ORGANISM 15, Michel Smith Smith: 18
+SCORE FOR ORGANISM 16, Stefan Smith Smith: 18
+SCORE FOR ORGANISM 17, Donald Smith Smith: 108
+SCORE FOR ORGANISM 18, Carrie Smith Smith: 137
+SCORE FOR ORGANISM 19, Michael Smith Smith: 18
+SCORE FOR ORGANISM 20, Alex Smith Smith: 120
+SCORE FOR ORGANISM 21, Bob Smith Smith: 147
+SCORE FOR ORGANISM 22, Barack Smith Carter: 113
+SCORE FOR ORGANISM 23, Jerry Smith Smith: 120
+SCORE FOR ORGANISM 24, Steven Smith Smith: 18
+SCORE FOR ORGANISM 25, Bob Smith Smith: 108
+SCORE FOR ORGANISM 26, Bob Carter Smith: 141
+SCORE FOR ORGANISM 27, Marshall Carter Smith: 113
+SCORE FOR ORGANISM 28, Morty Smith Smith: 18
+SCORE FOR ORGANISM 29, Jerry Carter Smith: 115
+
+Adult Score Mean: 114.25
+Child Score Mean: 101.3
+Mean Growth: -12.950000000000003
+
+
+Adult Score Median: 147.0
+Child Score Median: 114.0
+Median Growth: -33.0
+
+
+Adult Score Standard Deviation: 80.58592994600954
+Child Score Standard Deviation: 45.64123379382094
+Difference: -68.60876620617907
+
+GENERATION 30
+SCORE FOR ORGANISM 0, Karl Carter Smith: 157
+SCORE FOR ORGANISM 1, Greg Smith Smith: 157
+SCORE FOR ORGANISM 2, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 3, Karl Smith Carter: 159
+SCORE FOR ORGANISM 4, Harry Smith Smith: 162
+SCORE FOR ORGANISM 5, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 6, Cathy Smith Smith: 142
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Richard Smith Smith: 108
+SCORE FOR ORGANISM 11, Laura Smith Carter: 120
+SCORE FOR ORGANISM 12, Jerry Carter Smith: 108
+SCORE FOR ORGANISM 13, Marshall Smith Smith: 18
+SCORE FOR ORGANISM 14, Lyndon Smith Smith: 115
+SCORE FOR ORGANISM 15, Richard Smith Smith: 119
+SCORE FOR ORGANISM 16, Oprah Smith Smith: 109
+SCORE FOR ORGANISM 17, George Smith Smith: 120
+SCORE FOR ORGANISM 18, Tony Smith Smith: 141
+SCORE FOR ORGANISM 19, Bernard Smith Smith: 115
+SCORE FOR ORGANISM 20, Stefan Carter Smith: 120
+SCORE FOR ORGANISM 21, Greg Carter Smith: 108
+SCORE FOR ORGANISM 22, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 23, Alex Smith Smith: 139
+SCORE FOR ORGANISM 24, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 25, Morty Smith Smith: 18
+SCORE FOR ORGANISM 26, Albert Smith Smith: 120
+SCORE FOR ORGANISM 27, Oprah Smith Smith: 141
+SCORE FOR ORGANISM 28, Marshall Smith Smith: 113
+SCORE FOR ORGANISM 29, Hillary Smith Smith: 18
+
+Adult Score Mean: 142.75
+Child Score Mean: 81.3
+Mean Growth: -61.45
+
+
+Adult Score Median: 141.5
+Child Score Median: 110.5
+Median Growth: -31.0
+
+
+Adult Score Standard Deviation: 52.08886637276722
+Child Score Standard Deviation: 55.41169150599497
+Difference: -87.33830849400502
+
+GENERATION 31
+SCORE FOR ORGANISM 0, Cathy Smith Smith: 167
+SCORE FOR ORGANISM 1, Karl Carter Smith: 157
+SCORE FOR ORGANISM 2, Greg Smith Smith: 157
+SCORE FOR ORGANISM 3, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 4, Karl Smith Carter: 159
+SCORE FOR ORGANISM 5, Harry Smith Smith: 162
+SCORE FOR ORGANISM 6, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 7, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 8, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 9, Justin Smith Smith: 263
+SCORE FOR ORGANISM 10, Oprah Carter Smith: 18
+SCORE FOR ORGANISM 11, Steven Smith Smith: 18
+SCORE FOR ORGANISM 12, Bob Smith Smith: 108
+SCORE FOR ORGANISM 13, Bill Smith Smith: 115
+SCORE FOR ORGANISM 14, Karl Carter Smith: 18
+SCORE FOR ORGANISM 15, Rick Smith Carter: 18
+SCORE FOR ORGANISM 16, George Smith Smith: 18
+SCORE FOR ORGANISM 17, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 18, Wilford Smith Smith: 18
+SCORE FOR ORGANISM 19, Hillary Smith Carter: 120
+SCORE FOR ORGANISM 20, Michel Smith Smith: 113
+SCORE FOR ORGANISM 21, Steven Smith Smith: 18
+SCORE FOR ORGANISM 22, Bob Carter Smith: 108
+SCORE FOR ORGANISM 23, Marshall Smith Smith: 120
+SCORE FOR ORGANISM 24, Jonathan Smith Smith: 18
+SCORE FOR ORGANISM 25, Steven Smith Smith: 18
+SCORE FOR ORGANISM 26, Laura Smith Smith: 108
+SCORE FOR ORGANISM 27, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 28, Rick Smith Smith: 18
+SCORE FOR ORGANISM 29, Harry Carter Smith: 162
+
+Adult Score Mean: 113.5
+Child Score Mean: 94.6
+Mean Growth: -18.900000000000006
+
+
+Adult Score Median: 138.5
+Child Score Median: 108.0
+Median Growth: -30.5
+
+
+Adult Score Standard Deviation: 80.42354983722772
+Child Score Standard Deviation: 80.07940503719487
+Difference: -33.420594962805126
+
+GENERATION 32
+SCORE FOR ORGANISM 0, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 1, Karl Smith Carter: 159
+SCORE FOR ORGANISM 2, Harry Smith Smith: 162
+SCORE FOR ORGANISM 3, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 4, Harry Carter Smith: 162
+SCORE FOR ORGANISM 5, Cathy Smith Smith: 142
+SCORE FOR ORGANISM 6, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 7, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 8, Justin Smith Smith: 263
+SCORE FOR ORGANISM 9, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 10, Rick Smith Smith: 18
+SCORE FOR ORGANISM 11, Alex Smith Smith: 113
+SCORE FOR ORGANISM 12, Bob Smith Smith: 115
+SCORE FOR ORGANISM 13, Stefan Smith Smith: 113
+SCORE FOR ORGANISM 14, Morty Smith Smith: 109
+SCORE FOR ORGANISM 15, Donald Carter Smith: 108
+SCORE FOR ORGANISM 16, Oprah Smith Smith: 18
+SCORE FOR ORGANISM 17, Donald Carter Smith: 109
+SCORE FOR ORGANISM 18, Oprah Smith Smith: 108
+SCORE FOR ORGANISM 19, Laura Smith Smith: 18
+SCORE FOR ORGANISM 20, Bernard Smith Smith: 18
+SCORE FOR ORGANISM 21, Jacob Smith Smith: 113
+SCORE FOR ORGANISM 22, Bob Smith Smith: 18
+SCORE FOR ORGANISM 23, Cathy Carter Smith: 136
+SCORE FOR ORGANISM 24, Benhardt Smith Smith: 120
+SCORE FOR ORGANISM 25, Karl Smith Smith: 18
+SCORE FOR ORGANISM 26, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 27, Justin Smith Smith: 108
+SCORE FOR ORGANISM 28, Barack Smith Smith: 18
+SCORE FOR ORGANISM 29, Jerry Smith Smith: 18
+
+Adult Score Mean: 136.15
+Child Score Mean: 58.5
+Mean Growth: -77.65
+
+
+Adult Score Median: 128.5
+Child Score Median: 18.0
+Median Growth: -110.5
+
+
+Adult Score Standard Deviation: 71.45427319548313
+Child Score Standard Deviation: 52.757832488540394
+Difference: -83.3921675114596
+
+GENERATION 33
+SCORE FOR ORGANISM 0, Cathy Smith Smith: 167
+SCORE FOR ORGANISM 1, Jerry Carter Smith: 158
+SCORE FOR ORGANISM 2, Karl Smith Carter: 159
+SCORE FOR ORGANISM 3, Harry Smith Smith: 162
+SCORE FOR ORGANISM 4, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 5, Harry Carter Smith: 162
+SCORE FOR ORGANISM 6, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 7, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 8, Justin Smith Smith: 263
+SCORE FOR ORGANISM 9, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 10, Cathy Smith Smith: 141
+SCORE FOR ORGANISM 11, Albert Smith Smith: 108
+SCORE FOR ORGANISM 12, Laura Smith Smith: 18
+SCORE FOR ORGANISM 13, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 14, Stefan Smith Smith: 18
+SCORE FOR ORGANISM 15, Richard Smith Smith: 48
+SCORE FOR ORGANISM 16, Oprah Smith Smith: 109
+SCORE FOR ORGANISM 17, Alex Smith Smith: 115
+SCORE FOR ORGANISM 18, Bill Smith Smith: 115
+SCORE FOR ORGANISM 19, Bob Smith Smith: 120
+SCORE FOR ORGANISM 20, Tony Smith Smith: 109
+SCORE FOR ORGANISM 21, Hillary Smith Smith: 113
+SCORE FOR ORGANISM 22, Justin Smith Smith: 18
+SCORE FOR ORGANISM 23, George Carter Smith: 18
+SCORE FOR ORGANISM 24, Morty Carter Smith: 108
+SCORE FOR ORGANISM 25, Broderick Smith Smith: 18
+SCORE FOR ORGANISM 26, Donald Carter Carter: 18
+SCORE FOR ORGANISM 27, Alex Smith Smith: 18
+SCORE FOR ORGANISM 28, Harry Smith Smith: 18
+SCORE FOR ORGANISM 29, Elvis Smith Smith: 152
+
+Adult Score Mean: 148.55
+Child Score Mean: 59.0
+Mean Growth: -89.55000000000001
+
+
+Adult Score Median: 158.5
+Child Score Median: 18.0
+Median Growth: -140.5
+
+
+Adult Score Standard Deviation: 73.36604334288086
+Child Score Standard Deviation: 54.31594813884981
+Difference: -94.23405186115019
+
+GENERATION 34
+SCORE FOR ORGANISM 0, Karl Smith Carter: 159
+SCORE FOR ORGANISM 1, Harry Smith Smith: 162
+SCORE FOR ORGANISM 2, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 3, Harry Carter Smith: 162
+SCORE FOR ORGANISM 4, Cathy Smith Smith: 142
+SCORE FOR ORGANISM 5, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 6, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 7, Justin Smith Smith: 263
+SCORE FOR ORGANISM 8, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Alex Carter Smith: 18
+SCORE FOR ORGANISM 11, Broderick Smith Carter: 113
+SCORE FOR ORGANISM 12, Laura Carter Smith: 18
+SCORE FOR ORGANISM 13, Wilford Carter Smith: 108
+SCORE FOR ORGANISM 14, Albert Smith Smith: 108
+SCORE FOR ORGANISM 15, Greg Smith Smith: 108
+SCORE FOR ORGANISM 16, Greg Smith Smith: 103
+SCORE FOR ORGANISM 17, Karl Smith Smith: 108
+SCORE FOR ORGANISM 18, Charles Smith Carter: 109
+SCORE FOR ORGANISM 19, Wilford Smith Smith: 32
+SCORE FOR ORGANISM 20, Jacob Smith Carter: 18
+SCORE FOR ORGANISM 21, Alex Smith Smith: 108
+SCORE FOR ORGANISM 22, Michael Smith Carter: 108
+SCORE FOR ORGANISM 23, Stefan Smith Smith: 112
+SCORE FOR ORGANISM 24, Alex Smith Smith: 18
+SCORE FOR ORGANISM 25, Andre Smith Smith: 18
+SCORE FOR ORGANISM 26, Bill Smith Smith: 108
+SCORE FOR ORGANISM 27, Elvis Smith Smith: 120
+SCORE FOR ORGANISM 28, Rick Smith Smith: 18
+SCORE FOR ORGANISM 29, Karl Smith Smith: 63
+
+Adult Score Mean: 141.25
+Child Score Mean: 69.1
+Mean Growth: -72.15
+
+
+Adult Score Median: 127.5
+Child Score Median: 85.5
+Median Growth: -42.0
+
+
+Adult Score Standard Deviation: 76.16040897170159
+Child Score Standard Deviation: 46.49121780867149
+Difference: -94.7587821913285
+
+GENERATION 35
+SCORE FOR ORGANISM 0, Cathy Smith Smith: 167
+SCORE FOR ORGANISM 1, Karl Smith Carter: 159
+SCORE FOR ORGANISM 2, Harry Smith Smith: 162
+SCORE FOR ORGANISM 3, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 4, Harry Carter Smith: 162
+SCORE FOR ORGANISM 5, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 6, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 7, Justin Smith Smith: 263
+SCORE FOR ORGANISM 8, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 10, Charles Smith Smith: 108
+SCORE FOR ORGANISM 11, Morty Smith Smith: 108
+SCORE FOR ORGANISM 12, Laura Carter Carter: 265
+SCORE FOR ORGANISM 13, Lyndon Smith Smith: 18
+SCORE FOR ORGANISM 14, Oprah Smith Smith: 18
+SCORE FOR ORGANISM 15, George Carter Smith: 18
+SCORE FOR ORGANISM 16, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 17, Broderick Smith Smith: 139
+SCORE FOR ORGANISM 18, Donald Smith Carter: 18
+SCORE FOR ORGANISM 19, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 20, Karl Smith Smith: 18
+SCORE FOR ORGANISM 21, Hillary Smith Smith: 33
+SCORE FOR ORGANISM 22, Justin Smith Smith: 18
+SCORE FOR ORGANISM 23, Michael Carter Carter: 18
+SCORE FOR ORGANISM 24, Jerry Smith Carter: 109
+SCORE FOR ORGANISM 25, Calvin Smith Smith: 108
+SCORE FOR ORGANISM 26, Jimmy Smith Carter: 145
+SCORE FOR ORGANISM 27, Rick Carter Smith: 148
+SCORE FOR ORGANISM 28, Richard Smith Smith: 18
+SCORE FOR ORGANISM 29, Jimmy Smith Smith: 153
+
+Adult Score Mean: 144.9
+Child Score Mean: 76.8
+Mean Growth: -68.10000000000001
+
+
+Adult Score Median: 162.0
+Child Score Median: 70.5
+Median Growth: -91.5
+
+
+Adult Score Standard Deviation: 89.99467820523144
+Child Score Standard Deviation: 60.81447196186118
+Difference: -84.08552803813882
+
+GENERATION 36
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Cathy Smith Smith: 142
+SCORE FOR ORGANISM 3, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 4, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, George Smith Smith: 113
+SCORE FOR ORGANISM 11, Justin Smith Smith: 18
+SCORE FOR ORGANISM 12, Laura Smith Carter: 18
+SCORE FOR ORGANISM 13, Michel Smith Carter: 18
+SCORE FOR ORGANISM 14, Wilford Carter Smith: 18
+SCORE FOR ORGANISM 15, Wilford Carter Carter: 18
+SCORE FOR ORGANISM 16, Oprah Carter Smith: 139
+SCORE FOR ORGANISM 17, Morty Smith Smith: 108
+SCORE FOR ORGANISM 18, Carrie Smith Carter: 141
+SCORE FOR ORGANISM 19, Jimmy Smith Smith: 108
+SCORE FOR ORGANISM 20, Donald Carter Smith: 18
+SCORE FOR ORGANISM 21, Steven Smith Smith: 120
+SCORE FOR ORGANISM 22, Karl Smith Smith: 18
+SCORE FOR ORGANISM 23, Laura Smith Carter: 73
+SCORE FOR ORGANISM 24, Benhardt Smith Carter: 115
+SCORE FOR ORGANISM 25, Jerry Smith Smith: 113
+SCORE FOR ORGANISM 26, Alex Carter Smith: 148
+SCORE FOR ORGANISM 27, Michel Smith Smith: 138
+SCORE FOR ORGANISM 28, Albert Smith Carter: 115
+SCORE FOR ORGANISM 29, Greg Smith Smith: 18
+
+Adult Score Mean: 140.5
+Child Score Mean: 87.6
+Mean Growth: -52.900000000000006
+
+
+Adult Score Median: 141.5
+Child Score Median: 114.0
+Median Growth: -27.5
+
+
+Adult Score Standard Deviation: 90.13294274803776
+Child Score Standard Deviation: 51.77987597083982
+Difference: -88.72012402916019
+
+GENERATION 37
+SCORE FOR ORGANISM 0, Alex Carter Smith: 148
+SCORE FOR ORGANISM 1, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 2, Harry Carter Smith: 162
+SCORE FOR ORGANISM 3, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 4, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Benhardt Smith Smith: 18
+SCORE FOR ORGANISM 11, Bob Carter Smith: 18
+SCORE FOR ORGANISM 12, Stefan Carter Smith: 120
+SCORE FOR ORGANISM 13, Bernard Smith Smith: 109
+SCORE FOR ORGANISM 14, Albert Smith Smith: 18
+SCORE FOR ORGANISM 15, Harry Smith Smith: 153
+SCORE FOR ORGANISM 16, Laura Carter Smith: 18
+SCORE FOR ORGANISM 17, Jimmy Carter Carter: 120
+SCORE FOR ORGANISM 18, Ron Smith Smith: 109
+SCORE FOR ORGANISM 19, Jacob Smith Smith: 115
+SCORE FOR ORGANISM 20, Alex Carter Carter: 133
+SCORE FOR ORGANISM 21, Albert Smith Smith: 18
+SCORE FOR ORGANISM 22, Alex Smith Smith: 18
+SCORE FOR ORGANISM 23, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 24, Benhardt Carter Carter: 115
+SCORE FOR ORGANISM 25, Wilford Smith Smith: 108
+SCORE FOR ORGANISM 26, Bill Carter Smith: 108
+SCORE FOR ORGANISM 27, Andre Smith Carter: 113
+SCORE FOR ORGANISM 28, Tony Smith Smith: 108
+SCORE FOR ORGANISM 29, Tony Smith Carter: 108
+
+Adult Score Mean: 145.55
+Child Score Mean: 84.7
+Mean Growth: -60.85000000000001
+
+
+Adult Score Median: 150.5
+Child Score Median: 108.0
+Median Growth: -42.5
+
+
+Adult Score Standard Deviation: 85.4766665606222
+Child Score Standard Deviation: 46.63105784298224
+Difference: -98.91894215701777
+
+GENERATION 38
+SCORE FOR ORGANISM 0, Harry Smith Smith: 153
+SCORE FOR ORGANISM 1, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 2, Harry Carter Smith: 162
+SCORE FOR ORGANISM 3, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 4, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Marshall Smith Smith: 24
+SCORE FOR ORGANISM 11, Alex Smith Smith: 108
+SCORE FOR ORGANISM 12, Hillary Carter Smith: 137
+SCORE FOR ORGANISM 13, Jacob Smith Smith: 114
+SCORE FOR ORGANISM 14, Andre Smith Smith: 18
+SCORE FOR ORGANISM 15, Stefan Smith Smith: 108
+SCORE FOR ORGANISM 16, Marshall Carter Smith: 108
+SCORE FOR ORGANISM 17, Wilford Smith Carter: 113
+SCORE FOR ORGANISM 18, Donald Smith Smith: 18
+SCORE FOR ORGANISM 19, Bill Smith Smith: 167
+SCORE FOR ORGANISM 20, Greg Smith Smith: 108
+SCORE FOR ORGANISM 21, Laura Smith Smith: 120
+SCORE FOR ORGANISM 22, Bill Smith Smith: 18
+SCORE FOR ORGANISM 23, Carrie Smith Smith: 120
+SCORE FOR ORGANISM 24, Donald Carter Smith: 113
+SCORE FOR ORGANISM 25, Broderick Carter Smith: 109
+SCORE FOR ORGANISM 26, Ron Smith Carter: 109
+SCORE FOR ORGANISM 27, Elvis Smith Smith: 120
+SCORE FOR ORGANISM 28, Ron Smith Smith: 120
+SCORE FOR ORGANISM 29, Laura Smith Smith: 18
+
+Adult Score Mean: 151.85
+Child Score Mean: 95.5
+Mean Growth: -56.349999999999994
+
+
+Adult Score Median: 157.5
+Child Score Median: 111.0
+Median Growth: -46.5
+
+
+Adult Score Standard Deviation: 80.44499591908159
+Child Score Standard Deviation: 41.150806661460344
+Difference: -110.69919333853966
+
+GENERATION 39
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Jacob Smith Carter: 120
+SCORE FOR ORGANISM 11, Harry Smith Smith: 139
+SCORE FOR ORGANISM 12, Rick Smith Smith: 108
+SCORE FOR ORGANISM 13, Hillary Smith Smith: 48
+SCORE FOR ORGANISM 14, Stefan Smith Smith: 115
+SCORE FOR ORGANISM 15, Karl Smith Smith: 115
+SCORE FOR ORGANISM 16, Jonathan Smith Smith: 139
+SCORE FOR ORGANISM 17, Jonathan Smith Smith: 108
+SCORE FOR ORGANISM 18, Stefan Smith Carter: 108
+SCORE FOR ORGANISM 19, Carrie Smith Smith: 108
+SCORE FOR ORGANISM 20, Karl Smith Smith: 68
+SCORE FOR ORGANISM 21, Stefan Smith Smith: 141
+SCORE FOR ORGANISM 22, Greg Smith Smith: 18
+SCORE FOR ORGANISM 23, Marshall Smith Smith: 18
+SCORE FOR ORGANISM 24, Broderick Smith Smith: 141
+SCORE FOR ORGANISM 25, Bernard Smith Smith: 18
+SCORE FOR ORGANISM 26, Calvin Smith Carter: 115
+SCORE FOR ORGANISM 27, Benhardt Smith Carter: 108
+SCORE FOR ORGANISM 28, Andre Smith Smith: 98
+SCORE FOR ORGANISM 29, Carrie Smith Smith: 120
+
+Adult Score Mean: 162.0
+Child Score Mean: 84.5
+Mean Growth: -77.5
+
+
+Adult Score Median: 150.5
+Child Score Median: 103.0
+Median Growth: -47.5
+
+
+Adult Score Standard Deviation: 65.52621010348696
+Child Score Standard Deviation: 50.38573431262287
+Difference: -111.61426568737713
+
+GENERATION 40
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Ron Carter Smith: 108
+SCORE FOR ORGANISM 11, Stefan Smith Smith: 18
+SCORE FOR ORGANISM 12, Elvis Smith Smith: 108
+SCORE FOR ORGANISM 13, Cathy Smith Carter: 108
+SCORE FOR ORGANISM 14, Michael Smith Smith: 125
+SCORE FOR ORGANISM 15, Harry Smith Smith: 113
+SCORE FOR ORGANISM 16, Harry Carter Smith: 148
+SCORE FOR ORGANISM 17, Albert Smith Carter: 18
+SCORE FOR ORGANISM 18, Marshall Smith Carter: 108
+SCORE FOR ORGANISM 19, Karl Smith Carter: 120
+SCORE FOR ORGANISM 20, Laura Smith Carter: 113
+SCORE FOR ORGANISM 21, Justin Smith Smith: 108
+SCORE FOR ORGANISM 22, Barack Carter Smith: 108
+SCORE FOR ORGANISM 23, Greg Smith Smith: 109
+SCORE FOR ORGANISM 24, Justin Smith Smith: 108
+SCORE FOR ORGANISM 25, Elvis Smith Smith: 115
+SCORE FOR ORGANISM 26, Cathy Smith Carter: 108
+SCORE FOR ORGANISM 27, Jimmy Smith Smith: 109
+SCORE FOR ORGANISM 28, Cathy Carter Smith: 18
+SCORE FOR ORGANISM 29, Benhardt Smith Smith: 109
+
+Adult Score Mean: 155.5
+Child Score Mean: 100.5
+Mean Growth: -55.0
+
+
+Adult Score Median: 155.0
+Child Score Median: 108.5
+Median Growth: -46.5
+
+
+Adult Score Standard Deviation: 75.52030051233697
+Child Score Standard Deviation: 29.087034148492272
+Difference: -126.41296585150772
+
+GENERATION 41
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Greg Smith Smith: 120
+SCORE FOR ORGANISM 11, Benhardt Smith Smith: 18
+SCORE FOR ORGANISM 12, Cathy Smith Smith: 18
+SCORE FOR ORGANISM 13, Lyndon Smith Smith: 18
+SCORE FOR ORGANISM 14, Justin Smith Carter: 108
+SCORE FOR ORGANISM 15, Ron Carter Smith: 18
+SCORE FOR ORGANISM 16, Justin Smith Carter: 141
+SCORE FOR ORGANISM 17, Calvin Carter Smith: 120
+SCORE FOR ORGANISM 18, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 19, Richard Smith Smith: 108
+SCORE FOR ORGANISM 20, Jacob Smith Smith: 18
+SCORE FOR ORGANISM 21, Marshall Smith Smith: 18
+SCORE FOR ORGANISM 22, Cathy Smith Smith: 18
+SCORE FOR ORGANISM 23, Karl Smith Smith: 120
+SCORE FOR ORGANISM 24, Bill Smith Smith: 18
+SCORE FOR ORGANISM 25, George Smith Smith: 18
+SCORE FOR ORGANISM 26, Bob Smith Carter: 108
+SCORE FOR ORGANISM 27, Tony Carter Carter: 147
+SCORE FOR ORGANISM 28, Barack Smith Smith: 108
+SCORE FOR ORGANISM 29, Harry Smith Smith: 18
+
+Adult Score Mean: 140.95
+Child Score Mean: 59.1
+Mean Growth: -81.85
+
+
+Adult Score Median: 151.5
+Child Score Median: 18.0
+Median Growth: -133.5
+
+
+Adult Score Standard Deviation: 90.11657654627729
+Child Score Standard Deviation: 54.11192105257399
+Difference: -86.838078947426
+
+GENERATION 42
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Hillary Carter Smith: 18
+SCORE FOR ORGANISM 11, Jerry Carter Smith: 115
+SCORE FOR ORGANISM 12, Jerry Smith Smith: 115
+SCORE FOR ORGANISM 13, George Smith Smith: 108
+SCORE FOR ORGANISM 14, Barack Smith Smith: 109
+SCORE FOR ORGANISM 15, Richard Smith Carter: 18
+SCORE FOR ORGANISM 16, Cathy Smith Smith: 108
+SCORE FOR ORGANISM 17, Michel Smith Smith: 18
+SCORE FOR ORGANISM 18, Lyndon Smith Smith: 18
+SCORE FOR ORGANISM 19, Tony Carter Smith: 18
+SCORE FOR ORGANISM 20, Laura Smith Smith: 108
+SCORE FOR ORGANISM 21, George Carter Carter: 116
+SCORE FOR ORGANISM 22, Calvin Carter Smith: 148
+SCORE FOR ORGANISM 23, Alex Smith Carter: 18
+SCORE FOR ORGANISM 24, Albert Smith Smith: 139
+SCORE FOR ORGANISM 25, Karl Carter Smith: 113
+SCORE FOR ORGANISM 26, George Smith Carter: 108
+SCORE FOR ORGANISM 27, George Carter Carter: 108
+SCORE FOR ORGANISM 28, Lyndon Smith Smith: 108
+SCORE FOR ORGANISM 29, Lyndon Smith Carter: 18
+
+Adult Score Mean: 139.05
+Child Score Mean: 98.4
+Mean Growth: -40.650000000000006
+
+
+Adult Score Median: 138.5
+Child Score Median: 108.0
+Median Growth: -30.5
+
+
+Adult Score Standard Deviation: 90.77066242952476
+Child Score Standard Deviation: 44.63232510685999
+Difference: -94.41767489314003
+
+GENERATION 43
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Hillary Smith Smith: 108
+SCORE FOR ORGANISM 11, Hillary Smith Smith: 113
+SCORE FOR ORGANISM 12, Karl Smith Carter: 108
+SCORE FOR ORGANISM 13, Wilford Smith Carter: 18
+SCORE FOR ORGANISM 14, Donald Smith Smith: 18
+SCORE FOR ORGANISM 15, Donald Smith Carter: 18
+SCORE FOR ORGANISM 16, Stefan Smith Carter: 120
+SCORE FOR ORGANISM 17, Bob Smith Carter: 141
+SCORE FOR ORGANISM 18, Jacob Smith Smith: 108
+SCORE FOR ORGANISM 19, Richard Smith Smith: 137
+SCORE FOR ORGANISM 20, Broderick Smith Smith: 18
+SCORE FOR ORGANISM 21, Lyndon Smith Smith: 18
+SCORE FOR ORGANISM 22, Steven Smith Smith: 108
+SCORE FOR ORGANISM 23, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 24, Charles Smith Smith: 108
+SCORE FOR ORGANISM 25, Wilford Smith Smith: 18
+SCORE FOR ORGANISM 26, Broderick Smith Smith: 18
+SCORE FOR ORGANISM 27, Justin Smith Carter: 108
+SCORE FOR ORGANISM 28, Wilford Smith Smith: 113
+SCORE FOR ORGANISM 29, Morty Carter Smith: 108
+
+Adult Score Mean: 151.05
+Child Score Mean: 63.5
+Mean Growth: -87.55000000000001
+
+
+Adult Score Median: 151.5
+Child Score Median: 63.0
+Median Growth: -88.5
+
+
+Adult Score Standard Deviation: 80.6124419024364
+Child Score Standard Deviation: 47.98437245604031
+Difference: -103.06562754395969
+
+GENERATION 44
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Steven Smith Smith: 120
+SCORE FOR ORGANISM 11, Greg Carter Smith: 141
+SCORE FOR ORGANISM 12, Lyndon Smith Smith: 108
+SCORE FOR ORGANISM 13, Jimmy Smith Smith: 120
+SCORE FOR ORGANISM 14, Andre Carter Carter: 18
+SCORE FOR ORGANISM 15, Barack Smith Smith: 18
+SCORE FOR ORGANISM 16, Bob Smith Smith: 137
+SCORE FOR ORGANISM 17, Jerry Smith Smith: 108
+SCORE FOR ORGANISM 18, Bob Carter Smith: 113
+SCORE FOR ORGANISM 19, Elvis Smith Smith: 18
+SCORE FOR ORGANISM 20, Ron Smith Smith: 141
+SCORE FOR ORGANISM 21, Laura Smith Carter: 108
+SCORE FOR ORGANISM 22, George Carter Smith: 115
+SCORE FOR ORGANISM 23, Stefan Smith Smith: 108
+SCORE FOR ORGANISM 24, Albert Smith Carter: 108
+SCORE FOR ORGANISM 25, Cathy Smith Carter: 144
+SCORE FOR ORGANISM 26, Lyndon Smith Carter: 120
+SCORE FOR ORGANISM 27, Jimmy Carter Smith: 147
+SCORE FOR ORGANISM 28, Harry Smith Carter: 108
+SCORE FOR ORGANISM 29, Wilford Carter Smith: 18
+
+Adult Score Mean: 151.85
+Child Score Mean: 111.7
+Mean Growth: -40.14999999999999
+
+
+Adult Score Median: 151.5
+Child Score Median: 111.5
+Median Growth: -40.0
+
+
+Adult Score Standard Deviation: 80.56267582970483
+Child Score Standard Deviation: 36.60919738717763
+Difference: -115.24080261282236
+
+GENERATION 45
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Elvis Carter Smith: 18
+SCORE FOR ORGANISM 11, Harry Smith Carter: 18
+SCORE FOR ORGANISM 12, Bill Smith Smith: 18
+SCORE FOR ORGANISM 13, Oprah Carter Smith: 18
+SCORE FOR ORGANISM 14, Broderick Smith Carter: 100
+SCORE FOR ORGANISM 15, Bill Smith Carter: 108
+SCORE FOR ORGANISM 16, Carrie Smith Smith: 108
+SCORE FOR ORGANISM 17, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 18, Bill Smith Smith: 18
+SCORE FOR ORGANISM 19, Michael Carter Smith: 108
+SCORE FOR ORGANISM 20, Charles Smith Carter: 18
+SCORE FOR ORGANISM 21, Andre Smith Smith: 113
+SCORE FOR ORGANISM 22, Tony Carter Smith: 113
+SCORE FOR ORGANISM 23, Barack Smith Smith: 108
+SCORE FOR ORGANISM 24, Andre Smith Smith: 18
+SCORE FOR ORGANISM 25, Alex Smith Carter: 18
+SCORE FOR ORGANISM 26, Jimmy Smith Smith: 18
+SCORE FOR ORGANISM 27, Richard Smith Smith: 108
+SCORE FOR ORGANISM 28, Stefan Smith Smith: 108
+SCORE FOR ORGANISM 29, Harry Smith Smith: 115
+
+Adult Score Mean: 133.2
+Child Score Mean: 73.7
+Mean Growth: -59.499999999999986
+
+
+Adult Score Median: 135.0
+Child Score Median: 108.0
+Median Growth: -27.0
+
+
+Adult Score Standard Deviation: 94.6181244460289
+Child Score Standard Deviation: 47.99780087554938
+Difference: -85.2021991244506
+
+GENERATION 46
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Jacob Carter Smith: 18
+SCORE FOR ORGANISM 11, Albert Smith Smith: 18
+SCORE FOR ORGANISM 12, Carrie Smith Carter: 18
+SCORE FOR ORGANISM 13, Cathy Smith Smith: 18
+SCORE FOR ORGANISM 14, Steven Smith Smith: 18
+SCORE FOR ORGANISM 15, Bill Smith Smith: 108
+SCORE FOR ORGANISM 16, Marshall Smith Carter: 108
+SCORE FOR ORGANISM 17, Elvis Smith Carter: 18
+SCORE FOR ORGANISM 18, Greg Smith Smith: 18
+SCORE FOR ORGANISM 19, Carrie Smith Smith: 113
+SCORE FOR ORGANISM 20, Karl Smith Carter: 113
+SCORE FOR ORGANISM 21, Wilford Smith Smith: 18
+SCORE FOR ORGANISM 22, Carrie Smith Smith: 53
+SCORE FOR ORGANISM 23, Oprah Smith Carter: 113
+SCORE FOR ORGANISM 24, Broderick Carter Carter: 141
+SCORE FOR ORGANISM 25, Hillary Carter Smith: 109
+SCORE FOR ORGANISM 26, Wilford Smith Carter: 120
+SCORE FOR ORGANISM 27, Broderick Smith Smith: 108
+SCORE FOR ORGANISM 28, Michael Smith Smith: 113
+SCORE FOR ORGANISM 29, Alex Smith Smith: 109
+
+Adult Score Mean: 129.55
+Child Score Mean: 99.7
+Mean Growth: -29.85000000000001
+
+
+Adult Score Median: 137.5
+Child Score Median: 111.0
+Median Growth: -26.5
+
+
+Adult Score Standard Deviation: 98.05126210304486
+Child Score Standard Deviation: 36.12647536395188
+Difference: -93.42352463604813
+
+GENERATION 47
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 249
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 263
+SCORE FOR ORGANISM 8, Bernard Smith Smith: 267
+SCORE FOR ORGANISM 9, Laura Carter Carter: 265
+SCORE FOR ORGANISM 10, Justin Carter Smith: 18
+SCORE FOR ORGANISM 11, Richard Smith Smith: 108
+SCORE FOR ORGANISM 12, Richard Smith Carter: 18
+SCORE FOR ORGANISM 13, Elvis Carter Smith: 108
+SCORE FOR ORGANISM 14, Morty Carter Smith: 141
+SCORE FOR ORGANISM 15, Morty Carter Smith: 108
+SCORE FOR ORGANISM 16, Karl Smith Smith: 108
+SCORE FOR ORGANISM 17, Richard Carter Smith: 108
+SCORE FOR ORGANISM 18, Marshall Smith Carter: 113
+SCORE FOR ORGANISM 19, Lyndon Smith Smith: 114
+SCORE FOR ORGANISM 20, Jacob Smith Smith: 18
+SCORE FOR ORGANISM 21, Barack Carter Smith: 108
+SCORE FOR ORGANISM 22, Michel Smith Smith: 109
+SCORE FOR ORGANISM 23, Harry Smith Smith: 18
+SCORE FOR ORGANISM 24, Lyndon Smith Smith: 18
+SCORE FOR ORGANISM 25, Michel Smith Smith: 108
+SCORE FOR ORGANISM 26, Michael Smith Smith: 113
+SCORE FOR ORGANISM 27, Hillary Smith Smith: 18
+SCORE FOR ORGANISM 28, Bob Smith Smith: 108
+SCORE FOR ORGANISM 29, Marshall Smith Smith: 48
+
+Adult Score Mean: 153.8
+Child Score Mean: 66.6
+Mean Growth: -87.20000000000002
+
+
+Adult Score Median: 151.5
+Child Score Median: 78.0
+Median Growth: -73.5
+
+
+Adult Score Standard Deviation: 75.92697322531627
+Child Score Standard Deviation: 45.80926640854325
+Difference: -107.99073359145676
+
+GENERATION 48
+SCORE FOR ORGANISM 0, Rick Jordan Carter: 162
+SCORE FOR ORGANISM 1, Harry Carter Smith: 162
+SCORE FOR ORGANISM 2, Carrie Smith Smith: 167
+SCORE FOR ORGANISM 3, Benhardt Smith Smith: 167
+SCORE FOR ORGANISM 4, Bill Smith Smith: 167
+SCORE FOR ORGANISM 5, Charles Jordan Smith: 255
+SCORE FOR ORGANISM 6, Justin Smith Smith: 263
+SCORE FOR ORGANISM 7, Lyndon Smith Smith: 264
+SCORE FOR ORGANISM 8, Laura Carter Carter: 265
+SCORE FOR ORGANISM 9, Bernard Smith Smith: 264
+SCORE FOR ORGANISM 10, Morty Smith Smith: 108
+SCORE FOR ORGANISM 11, Ron Smith Smith: 109
+SCORE FOR ORGANISM 12, Alex Smith Carter: 109
